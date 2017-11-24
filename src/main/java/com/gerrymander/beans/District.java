@@ -35,14 +35,32 @@ public class District {
 	@Column(name = "population")
 	private double population;
 	
-	private String representParty;
+	@Column(name = "party")
+	private Party party;
 	
-	public String getRepresentParty(){
-		return representParty;
+	public District() {
+		
+	}
+		
+	public District(String stateName, int districtId, int year) {
+		this.stateName = stateName;
+		this.districtId = districtId;
+		this.year = year;
 	}
 	
-	public void setRepresentParty(String representParty) {
-		this.representParty = representParty;
+	public District(String stateName, int districtId, int year, Party party) {
+		this.stateName = stateName;
+		this.districtId = districtId;
+		this.year = year;
+		this.party = party;
+	}
+	
+	public Party getParty() {
+		return party;
+	}
+	
+	public void setParty(Party party) {
+		this.party = party;
 	}
 	
 	public int getDistrictId() {

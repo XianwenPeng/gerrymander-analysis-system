@@ -33,6 +33,34 @@ public class State {
 	@Column(name = "population")
 	private double population;
 	
+	@Column(name = "Party")
+	private Party party;
+	
+	public State() {
+		
+	}
+	
+	public State(String stateName, int year) {
+		this.stateName = stateName;
+		this.year = year;
+	}
+	
+	public State(String stateName, int year, int demoSeats, int repubSeats, Party party) {
+		this.stateName = stateName;
+		this.year = year;
+		this.repubSeats = repubSeats;
+		this.demoSeats = demoSeats;
+		this.party = party;
+	}
+	
+	public Party getParty() {
+		return party;
+	}
+	
+	public void setParty(Party party) {
+		this.party = party;
+	}
+	
 	public int getYear() {
 		return year;
 	}

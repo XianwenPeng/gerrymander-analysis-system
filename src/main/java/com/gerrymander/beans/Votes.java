@@ -30,6 +30,37 @@ public class Votes {
 	@Column(name = "repubVotes")
 	private double repubVotes;
 	
+	private Party party;
+	
+	public Votes() {
+		
+	}
+	
+	public Votes(String stateName, int districtId, int year, double demoVotes, double repubVotes) {
+		this.stateName = stateName;
+		this.districtId = districtId;
+		this.year = year;
+		this.demoVotes = demoVotes;
+		this.repubVotes = repubVotes;
+		if(demoVotes > repubVotes)
+			this.party = Party.DEMOCRATIC;
+		else
+			this.party = Party.REPUBLICAN;
+	}
+	
+	public Votes(int id, String stateName, int districtId, int year, double demoVotes, double repubVotes) {
+		this.id = id;
+		this.stateName = stateName;
+		this.districtId = districtId;
+		this.year = year;
+		this.demoVotes = demoVotes;
+		this.repubVotes = repubVotes;
+		if(demoVotes > repubVotes)
+			this.party = Party.DEMOCRATIC;
+		else
+			this.party = Party.REPUBLICAN;
+	}
+	
 	public int getDistrictId() {
 		return districtId;
 	}
@@ -69,4 +100,6 @@ public class Votes {
 	public void setDemoVotes(double demoVotes) {
 		this.demoVotes = demoVotes;
 	}
+
+	
 }

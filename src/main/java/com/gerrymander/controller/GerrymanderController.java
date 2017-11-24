@@ -14,13 +14,12 @@ import com.gerrymander.beans.District;
 import com.gerrymander.beans.Greeting;
 import com.gerrymander.beans.SelectBar;
 import com.gerrymander.constant.ControllerAttributes;
-import com.gerrymander.repository.GeoRepository;
+import com.gerrymander.repository.DistrictRepository;
 import com.gerrymander.service.GeoService;
 
 @Controller
 public class GerrymanderController {
 	
-	private GeoRepository geoRepository;
 	private GeoService geoService;
 	private District District;
 	
