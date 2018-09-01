@@ -44,6 +44,7 @@ public class BatchConfiguration {
         reader.setResource(new ClassPathResource(ControllerAttributes.CSV_VOTES_URL));
         reader.setLineMapper(new DefaultLineMapper<Votes>() {{
             setLineTokenizer(new DelimitedLineTokenizer() {{
+//            		setDelimiter(DELIMITER_TAB);
                 setNames(new String[] { "stateName", "districtId", "year", "demoVotes", "repubVotes" });
             }});
             setFieldSetMapper(new BeanWrapperFieldSetMapper<Votes>() {{
@@ -67,27 +68,25 @@ public class BatchConfiguration {
         writer.setDataSource(dataSource);
         return writer;
     }
-    // end::readerwriterprocessor[]
-
-    // tag::jobstep[] 
-    @Bean
-    public Job importUserJob(JobCompletionListener listener) {
-        return jobBuilderFactory.get("importUserJob")
-                .incrementer(new RunIdIncrementer())
-                .listener(listener)
-                .flow(step1())
-                .end()
-                .build();
-    }
-
-    @Bean
-    public Step step1() {
-        return stepBuilderFactory.get("step1")
-                .<Votes, Votes> chunk(10)
-                .reader(readerVotes())
-                .processor(votesProcessor())
-                .writer(writerVotes())
-                .build();
-    }
+  
+//    @Bean
+//    public Job importUserJob(JobCompletionListener listener) {
+//        return jobBuilderFactory.get("importUserJob")
+//                .incrementer(new RunIdIncrementer())
+//                .listener(listener)
+//                .flow(step1())
+//                .end()
+//                .build();
+//    }
+//
+//    @Bean
+//    public Step step1() {
+//        return stepBuilderFactory.get("step1")
+//                .<Votes, Votes> chunk(10)
+//                .reader(readerVotes())
+//                .processor(votesProcessor())
+//                .writer(writerVotes())
+//                .build();
+//    }
     
 }

@@ -6,9 +6,12 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import javax.validation.Valid;
 
 import org.hibernate.validator.constraints.Email;
 import org.hibernate.validator.constraints.NotEmpty;
+
+import com.gerrymander.constant.ControllerAttributes;
 
 @Entity
 @Table(name = "user")
@@ -38,6 +41,34 @@ public class User {
 	
 	@Column(name = "role")
 	private String role;
+	
+	@Column(name = "status")
+	private String status;
+	
+	public User(int id, String email, String password, String firstName, String lastName, String role, String status) {
+		super();
+		this.id = id;
+		this.email = email;
+		this.password = password;
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.role = role;
+		this.status = status;
+	}
+
+	public User(User user) {
+		this.id = user.id;
+		this.email = user.email;
+		this.password = user.password;
+		this.firstName = user.firstName;
+		this.lastName = user.lastName;
+		this.role = user.role;
+		this.status = user.status;
+	}
+	
+	public User() {
+		
+	}
 	
 	public String getRole() {
 		return role;
@@ -87,4 +118,17 @@ public class User {
 		this.email = email;
 	}
 
+	public String getStatus() {
+		return status;
+	}
+
+	public void setStatus(String status) {
+		this.status = status;
+	}
+	public boolean isAdmin() {
+		if(this.role.equals(ControllerAttributes.USER_REGULAR))
+			return false;
+		return true;
+	}
+	
 }

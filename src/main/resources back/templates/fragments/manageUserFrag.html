@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html   xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.thymeleaf.org"
+        xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+<meta charset="UTF-8">
+<title>Title of Fragment</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="../css/animation.css">
+        <script src="../js/map.js"></script>
+    		<script src="../js/animation.js"></script>
+    		<link rel="stylesheet" href="../css/animation.css">
+    </head>	
+<body>
+	<div th:fragment="manageUser">
+		<h1>Manage Users</h1>
+		<form th:action="@{/gerrymander/manage/manageUser}"
+	        th:object="${user}" method="post" role="form">
+	        <p>Search for User: </p>
+	        <p>Email: <input type="text" th:field="*{email}"/></p>
+	        <p><input type="submit" value="Delete"/><input type="reset" value="Reset" /></p>
+	    </form>
+	    
+	</div>
+</body>
+</html>

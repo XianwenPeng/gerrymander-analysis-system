@@ -5,20 +5,20 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.IdClass;
 import javax.persistence.Table;
 
 @Entity
+@IdClass(StateId.class)
 @Table(name = "state")
 public class State {
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	@Column(name = "uniqueId")
 	private int uniqueId;
 	
-	@Column(name = "year", nullable = false)
+	@Id
 	private int year;
 	
-	@Column(name = "stateName", nullable = false)
+	@Id
 	private String stateName;
 	
 	@Column(name = "demoSeats")
@@ -26,12 +26,6 @@ public class State {
 	
 	@Column(name = "repubSeats")
 	private int repubSeats;
-	
-	@Column(name = "area")
-	private double area;
-	
-	@Column(name = "population")
-	private double population;
 	
 	@Column(name = "Party")
 	private Party party;
@@ -94,19 +88,4 @@ public class State {
 	}
 
 
-	public double getArea() {
-		return area;
-	}
-
-	public void setArea(double area) {
-		this.area = area;
-	}
-
-	public double getPopulation() {
-		return population;
-	}
-
-	public void setPopulation(double population) {
-		this.population = population;
-	}
 }

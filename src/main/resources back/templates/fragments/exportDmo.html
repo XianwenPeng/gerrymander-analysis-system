@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html   xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.thymeleaf.org"
+        xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+        <title>Title of Fragment</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="./css/animation.css">
+        <script src="/js/map.js"></script>
+    		<script src="/js/animation.js"></script>
+    		<link
+  href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+  rel="stylesheet"
+  integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+  crossorigin="anonymous" />
+
+	<link th:href="@{/css/style.css}" rel="stylesheet" />
+    </head>
+    
+<body class="gray-bg">
+
+  <div class="middle-box text-center loginscreen animated fadeInDown">
+    <div th:fragment="exportDmo">
+      
+      <hr />
+
+      <h4>Export Demographic Result</h4>
+
+      
+	  <form action="#" th:action="@{/gerrymander/manage/exportDmo}" th:object="${exportPane}" method="post">	
+		
+        <div>
+			<p>Export between years </p>
+			<select th:field="*{yearTo}">
+	             <option th:each="yearTo : ${yearToList}"
+	                             th:value="${yearTo}"
+	                             th:text="${yearTo}" />
+	         </select>
+	         <select th:field="*{yearFrom}">
+	             <option th:each="yearFrom : ${yearFromList}"
+	                             th:value="${yearFrom}"
+	                             th:text="${yearFrom}" />
+	         </select>
+	         <p>Export JSON File Name: <input type="text" th:field="*{yearsFileName}" /></p>
+         </div>
+         
+         <div>
+			<p>Export for one years </p>
+			<select th:field="*{year}">
+	             <option th:each="year : ${yearList}"
+	                             th:value="${year}"
+	                             th:text="${year}" />
+	         </select>
+	         <p>Export JSON File Name: <input type="text" th:field="*{yearFileName}" /></p>
+         </div>
+        
+
+        <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
+
+      </form>
+      
+      <form action="/gerrymander" class="inline">
+    		<button class="float-left submit-button" >Gerrymander Page</button>
+	</form>
+     
+	  
+       
+    </div>
+  </div>
+
+
+  <!-- jQuery-->
+  <script
+    src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <!-- Bootstrap -->
+  <script
+    src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+
+  <!-- Bootstrap Validator plugin -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+
+ 
+</body>
+</html>

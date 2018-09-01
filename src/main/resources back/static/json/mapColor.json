@@ -1,0 +1,4378 @@
+[ {
+  "year" : 2016,
+  "states" : [ {
+    "stateName" : "us-ak",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-al",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ar",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-az",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ca",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-co",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ct",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-de",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-fl",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ga",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-hi",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ia",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-id",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-il",
+    "testFailed" : 3
+  }, {
+    "stateName" : "us-in",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ks",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ky",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-la",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ma",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-md",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-me",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-mi",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-mn",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-mo",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ms",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-mt",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nc",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-nd",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ne",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nh",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nj",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-nm",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nv",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ny",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-oh",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ok",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-or",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-pa",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ri",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-sc",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-sd",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-tn",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-tx",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ut",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-va",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-vt",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-wa",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-wi",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-wv",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-wy",
+    "testFailed" : -1
+  } ],
+  "districts" : [ {
+    "districtNum" : "us-ak-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ar-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-az-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-az-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-az-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-19",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-21",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-23",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-24",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-25",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-27",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-28",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-29",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-30",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-31",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-32",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-33",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-34",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-35",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-36",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-37",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-38",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-39",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-40",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-41",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-42",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-43",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-44",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-45",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-46",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-47",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-48",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-49",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-50",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-51",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-52",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-53",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-de-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-17",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-18",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-19",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-21",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-22",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-23",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-24",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-25",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-27",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-hi-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-hi-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ia-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ia-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ia-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-id-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-id-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-13",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-17",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-18",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-in-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-in-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ks-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ky-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-la-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ma-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-md-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-me-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-me-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mn-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mn-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mn-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mn-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mo-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mo-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ms-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mt-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-13",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nd-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ne-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ne-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ne-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nh-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nh-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nm-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nm-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nm-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nv-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nv-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-19",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-21",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-23",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-24",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-25",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-27",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-or-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-or-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-17",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-18",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ri-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ri-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-sc-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-sc-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sd-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tn-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-13",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-17",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-19",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-21",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-23",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-24",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-25",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-26",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-27",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-28",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-29",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-30",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-31",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-32",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-33",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-34",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-35",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-36",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-vt-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wa-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wa-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wa-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wv-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wv-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wv-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wy-01",
+    "party" : 1
+  } ]
+}, {
+  "year" : 2014,
+  "states" : [ {
+    "stateName" : "us-ak",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-al",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ar",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-az",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ca",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-co",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ct",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-de",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-fl",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ga",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-hi",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ia",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-id",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-il",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-in",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ks",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ky",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-la",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ma",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-md",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-me",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-mi",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-mn",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-mo",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ms",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-mt",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nc",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-nd",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ne",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nh",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nj",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-nm",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nv",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ny",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-oh",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-ok",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-or",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-pa",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-ri",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-sc",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-sd",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-tn",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-tx",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ut",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-va",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-vt",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-wa",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-wi",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-wv",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-wy",
+    "testFailed" : -1
+  } ],
+  "districts" : [ {
+    "districtNum" : "us-ak-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ar-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-az-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-az-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-19",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-21",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-23",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-24",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-25",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-27",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-28",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-29",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-30",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-31",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-32",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-33",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-34",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-35",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-36",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-37",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-38",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-39",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-40",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-41",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-42",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-43",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-44",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-45",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-46",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-47",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-48",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-49",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-50",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-51",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-52",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-53",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-de-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-17",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-18",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-19",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-21",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-22",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-23",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-24",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-25",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-27",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-hi-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-hi-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-id-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-id-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-13",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-18",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-in-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-in-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ky-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-la-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ma-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-md-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-me-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-me-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mn-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mn-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mo-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mo-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mo-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ms-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mt-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-13",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nd-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ne-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ne-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ne-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nh-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nh-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nm-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nm-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nm-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nv-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-19",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-21",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-23",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-24",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-25",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-27",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-or-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-or-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-18",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ri-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ri-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-sc-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-sc-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sd-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tn-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-13",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-17",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-19",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-21",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-23",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-24",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-25",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-26",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-27",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-28",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-29",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-30",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-31",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-32",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-33",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-34",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-35",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-36",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-vt-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wa-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wa-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wa-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wv-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wv-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wv-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wy-01",
+    "party" : 1
+  } ]
+}, {
+  "year" : 2012,
+  "states" : [ {
+    "stateName" : "us-ak",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-al",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ar",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-az",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ca",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-co",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ct",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-de",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-fl",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ga",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-hi",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ia",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-id",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-il",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-in",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ks",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ky",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-la",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ma",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-md",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-me",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-mi",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-mn",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-mo",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-ms",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-mt",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nc",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-nd",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ne",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nh",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nj",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-nm",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-nv",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-ny",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-oh",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-ok",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-or",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-pa",
+    "testFailed" : 0
+  }, {
+    "stateName" : "us-ri",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-sc",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-sd",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-tn",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-tx",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-ut",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-va",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-vt",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-wa",
+    "testFailed" : 2
+  }, {
+    "stateName" : "us-wi",
+    "testFailed" : 1
+  }, {
+    "stateName" : "us-wv",
+    "testFailed" : -1
+  }, {
+    "stateName" : "us-wy",
+    "testFailed" : -1
+  } ],
+  "districts" : [ {
+    "districtNum" : "us-ak-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-al-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ar-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ar-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-az-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-az-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-az-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-19",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-21",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-23",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-24",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-25",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-27",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-28",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-29",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-30",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-31",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-32",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-33",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-34",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-35",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-36",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-37",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-38",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-39",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-40",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-41",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-42",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-43",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-44",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-45",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-46",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-47",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-48",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-49",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-50",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ca-51",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-52",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ca-53",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-co-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-co-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ct-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-de-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-17",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-19",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-21",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-22",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-23",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-24",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-25",
+    "party" : 1
+  }, {
+    "districtNum" : "us-fl-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-fl-27",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ga-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ga-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-hi-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-hi-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ia-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-id-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-id-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-il-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-il-18",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-in-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-in-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-in-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-in-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ks-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ky-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ky-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-la-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-la-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ma-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ma-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-md-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-md-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-me-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-me-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mi-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mi-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mn-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mn-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mn-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mo-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mo-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-mo-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mo-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ms-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ms-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-mt-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-13",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nd-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ne-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ne-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ne-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nh-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nh-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nj-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nj-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nm-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nm-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nm-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nv-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-19",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-21",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ny-23",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-24",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-25",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-26",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ny-27",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-oh-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-15",
+    "party" : 1
+  }, {
+    "districtNum" : "us-oh-16",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ok-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-or-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-or-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-or-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-pa-13",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-14",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-17",
+    "party" : 0
+  }, {
+    "districtNum" : "us-pa-18",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ri-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-ri-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-sc-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sc-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-sc-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-sd-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-05",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tn-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tn-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-12",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-13",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-14",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-15",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-16",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-17",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-18",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-19",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-20",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-21",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-22",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-23",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-24",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-25",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-26",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-27",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-28",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-29",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-30",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-31",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-32",
+    "party" : 1
+  }, {
+    "districtNum" : "us-tx-33",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-34",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-35",
+    "party" : 0
+  }, {
+    "districtNum" : "us-tx-36",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-ut-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-06",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-va-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-va-11",
+    "party" : 0
+  }, {
+    "districtNum" : "us-vt-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-04",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wa-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wa-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-09",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wa-10",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-02",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-03",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wi-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-07",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wi-08",
+    "party" : 0
+  }, {
+    "districtNum" : "us-wv-01",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wv-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wv-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-wy-01",
+    "party" : 1
+  } ]
+} ]

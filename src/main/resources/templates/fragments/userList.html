@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html   xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.thymeleaf.org"
+        xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+<meta charset="UTF-8">
+<title>Title of Fragment</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="../css/animation.css">
+        <script src="../js/map.js"></script>
+    		<script src="../js/animation.js"></script>
+    		<link rel="stylesheet" href="../css/animation.css">
+    </head>	
+<body>
+	<div th:fragment="userList">
+		<h1>User Lists</h1>
+	 	<table class="userListTable">
+                <thead>
+                <tr>
+                    <!-- <th>ID&emsp;&emsp;&nbsp;</th> -->
+                    <th>Email&emsp;&emsp;&nbsp;</th>
+                    <th>First Name&emsp;&emsp;&nbsp;</th>
+                    <th>Last Name&emsp;&emsp;&nbsp;</th>
+                    <th>Role&emsp;&emsp;&nbsp;</th>
+                    <!-- <th>Cost</th>
+                    <th>Mins to prepare</th>
+                    <th>Action</ -->
+                </tr>
+                </thead>
+                	        <tbody>
+			    <tr th:each="user: ${usersList}">
+			        <!-- <td th:text="${user.id}" /> -->
+			        <td th:text="${user.email}" />
+			        <td th:text="${user.firstName}" />
+			        <td th:text="${user.lastName}" />
+			        <td th:text="${user.role}" />
+			    </tr>
+				</tbody>
+			</table>
+			
+		</div>
+</body>
+</html>

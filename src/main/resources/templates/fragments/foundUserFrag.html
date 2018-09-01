@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html   xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.thymeleaf.org"
+        xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+<meta charset="UTF-8">
+<title>Title of Fragment</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="../css/animation.css">
+        <script src="../js/map.js"></script>
+    		<script src="../js/animation.js"></script>
+    		<link rel="stylesheet" href="../css/animation.css">
+    </head>	
+<body>
+	<div th:fragment="foundUser">
+		<div>
+			<p>Search Result</p>
+			<p id = "firstnametag">ID: &emsp;&emsp;&nbsp;
+		        <span th:text="${id}"></span></p>
+			<p id = "firstnametag">Email: &emsp;&emsp;&nbsp;
+		        <span th:text="${email}"></span></p>
+			<p id = "firstnametag">First Name: &emsp;&emsp;&nbsp;
+				<span th:text="${firstName}"></span></p>
+			<p id = "firstnametag">Last Name: &emsp;&emsp;&nbsp;
+				<span th:text="${lastName}"></span></p>
+			
+		</div>
+	 	<!-- <table class="userListTable">
+                <thead>
+                <tr>
+                    <th>ID&emsp;&emsp;&nbsp;</th>
+                    <th>Email&emsp;&emsp;&nbsp;</th>
+                    <th>First Name&emsp;&emsp;&nbsp;</th>
+                    <th>Last Name&emsp;&emsp;&nbsp;</th>
+                    <th>Cost</th>
+                    <th>Mins to prepare</th>
+                    <th>Action</
+                </tr>
+                </thead>
+               	    <tbody>
+					    <tr th:each="activity: ${activityList}">
+					        <td th:text="${activity.id}" />
+					        <td th:text="${activity.email}" />
+					        <td th:text="${activity.firstName}" />
+					        <td th:text="${activity.lastName}" />
+					    </tr>
+					</tbody>
+			</table> -->
+			
+		</div>
+</body>
+</html>

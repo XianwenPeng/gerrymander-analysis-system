@@ -1,5 +1,7 @@
 package com.gerrymander.configuration;
 
+import java.math.BigDecimal;
+import java.math.MathContext;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -24,63 +26,43 @@ import com.gerrymander.service.VotesService;
 
 @Component
 public class JobCompletionListener extends JobExecutionListenerSupport {
-
-	private final JdbcTemplate jdbcTemplate;
 	
 	@Autowired
 	private VotesService votesService;
 	@Autowired
 	private GeoService geoService;
 
-	@Autowired
-	public JobCompletionListener(JdbcTemplate jdbcTemplate) {
-		this.jdbcTemplate = jdbcTemplate;
-	}
-
 	@Override
 	public void afterJob(JobExecution jobExecution) {
 		if(jobExecution.getStatus() == BatchStatus.COMPLETED) {
-//			log.info("!!! JOB FINISHED! Time to verify the results");
 			updateDistrict();
 			updateState();
-//			List<Votes> results = jdbcTemplate.query("SELECT * FROM votes", new RowMapper<Votes>() {
-//				@Override
-//				public Votes mapRow(ResultSet rs, int row) throws SQLException {
-//					return new Votes(rs.getString(1), Integer.parseInt(rs.getString(2)), 
-//							Integer.parseInt(rs.getString(3)), Double.parseDouble(rs.getString(4)), 
-//							Double.parseDouble(rs.getString(5)));
-//				}
-//			});
-//
-//			for (Votes person : results) {
-//				log.info("Found <" + person + "> in the database.");
-//			}
-
 		}
 	}
 	
 	public void updateDistrict() {
 		List<Votes> votes = votesService.findAllVotes();
 		for(Votes vote: votes) {
+			double demo = vote.getDemoVotes();
+			double repub = vote.getRepubVotes();
+			demo = 100*demo/(demo + repub);
+			repub = 100-demo;
 			if(vote.getDemoVotes() > vote.getRepubVotes()) {
 				geoService.saveDistrict(new District(vote.getStateName(), vote.getDistrictId(),
-						vote.getYear(), Party.DEMOCRATIC));
+						vote.getYear(), Party.DEMOCRATIC, demo, repub));
 			}
 			else {
 				geoService.saveDistrict(new District(vote.getStateName(), vote.getDistrictId(), 
-						vote.getYear(), Party.REPUBLICAN));
+						vote.getYear(), Party.REPUBLICAN, demo, repub));
 			}
 		}
 	}
 	
 	public void updateState() {
 		List<District> districts = geoService.findAllDistrict();
-		List<State> states = geoService.findAllState();
 		int demoSeats = 0, repubSeats = 0;
-		int count = 0;
 		String stateName = "";
 		State state = new State();
-		int year = 0;
 		if(districts.size() != 0) {
 			stateName = districts.get(0).getStateName();
 			state = new State(districts.get(0).getStateName(), districts.get(0).getYear());

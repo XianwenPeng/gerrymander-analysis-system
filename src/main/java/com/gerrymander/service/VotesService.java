@@ -20,8 +20,20 @@ public class VotesService {
 			this.votesRepository = votesRepository;
 		}
 		
+		public VotesService() {
+			
+		}
+		
 		public Votes findVotes(String stateName, int districtId, int year) {
 			return votesRepository.findByStateNameAndDistrictIdAndYear(stateName, districtId, year);
+		}
+		
+		public List<Votes> findVotes(String stateName, int year) {
+			return votesRepository.findByStateNameAndYear(stateName, year);
+		}
+		
+		public List<Votes> findByYear(int year) {
+			return votesRepository.findAllByYear(year);
 		}
 //		 
 		public Votes findVotes(int id) {
@@ -31,4 +43,13 @@ public class VotesService {
 		public List<Votes> findAllVotes() {
 			return votesRepository.findAll();
 		}
+		
+		public void saveVotes(Votes votes) {
+			votesRepository.save(votes);
+		}
+		
+		public void deleteByYear(int year) {
+			votesRepository.deleteByYear(year);
+		}
+
 }

@@ -1,0 +1,3046 @@
+[ {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "AK",
+  "demoVotes" : 38.1,
+  "repubVotes" : 59.7,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "AL",
+  "demoVotes" : 38.5,
+  "repubVotes" : 60.9,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "AL",
+  "demoVotes" : 35.0,
+  "repubVotes" : 64.5,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "AL",
+  "demoVotes" : 36.6,
+  "repubVotes" : 62.6,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "AL",
+  "demoVotes" : 25.5,
+  "repubVotes" : 73.3,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "AL",
+  "demoVotes" : 36.3,
+  "repubVotes" : 62.6,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "AL",
+  "demoVotes" : 25.0,
+  "repubVotes" : 74.1,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "AL",
+  "demoVotes" : 71.5,
+  "repubVotes" : 28.1,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "AR",
+  "demoVotes" : 39.2,
+  "repubVotes" : 58.0,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "AR",
+  "demoVotes" : 44.3,
+  "repubVotes" : 53.8,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "AR",
+  "demoVotes" : 33.9,
+  "repubVotes" : 63.7,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "AR",
+  "demoVotes" : 37.4,
+  "repubVotes" : 59.9,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 47.8,
+  "repubVotes" : 51.0,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 48.9,
+  "repubVotes" : 49.8,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 58.2,
+  "repubVotes" : 40.7,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 34.4,
+  "repubVotes" : 64.2,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 36.3,
+  "repubVotes" : 62.6,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 41.2,
+  "repubVotes" : 57.7,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 64.7,
+  "repubVotes" : 34.1,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 38.4,
+  "repubVotes" : 60.6,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "AZ",
+  "demoVotes" : 51.3,
+  "repubVotes" : 47.4,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 42.0,
+  "repubVotes" : 53.0,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 71.0,
+  "repubVotes" : 25.0,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 55.0,
+  "repubVotes" : 42.0,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 43.0,
+  "repubVotes" : 54.0,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 70.0,
+  "repubVotes" : 26.0,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 68.0,
+  "repubVotes" : 29.0,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 51.0,
+  "repubVotes" : 46.0,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 42.0,
+  "repubVotes" : 55.0,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 56.0,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 50.0,
+  "repubVotes" : 47.0,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 69.0,
+  "repubVotes" : 28.0,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 84.0,
+  "repubVotes" : 13.0,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 87.0,
+  "repubVotes" : 10.0,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 73.0,
+  "repubVotes" : 24.0,
+  "party" : null
+}, {
+  "districtId" : 15,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 67.0,
+  "repubVotes" : 30.0,
+  "party" : null
+}, {
+  "districtId" : 16,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 57.0,
+  "repubVotes" : 40.0,
+  "party" : null
+}, {
+  "districtId" : 17,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 69.0,
+  "repubVotes" : 28.0,
+  "party" : null
+}, {
+  "districtId" : 18,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 70.0,
+  "repubVotes" : 27.0,
+  "party" : null
+}, {
+  "districtId" : 19,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 68.0,
+  "repubVotes" : 29.0,
+  "party" : null
+}, {
+  "districtId" : 20,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 71.0,
+  "repubVotes" : 26.0,
+  "party" : null
+}, {
+  "districtId" : 21,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 52.0,
+  "repubVotes" : 46.0,
+  "party" : null
+}, {
+  "districtId" : 22,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 42.0,
+  "repubVotes" : 55.0,
+  "party" : null
+}, {
+  "districtId" : 23,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 36.0,
+  "repubVotes" : 61.0,
+  "party" : null
+}, {
+  "districtId" : 24,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 56.0,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 25,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 49.0,
+  "repubVotes" : 48.0,
+  "party" : null
+}, {
+  "districtId" : 26,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 56.0,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 27,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 61.0,
+  "repubVotes" : 35.0,
+  "party" : null
+}, {
+  "districtId" : 28,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 70.0,
+  "repubVotes" : 26.0,
+  "party" : null
+}, {
+  "districtId" : 29,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 74.0,
+  "repubVotes" : 23.0,
+  "party" : null
+}, {
+  "districtId" : 30,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 66.0,
+  "repubVotes" : 31.0,
+  "party" : null
+}, {
+  "districtId" : 31,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 56.0,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 32,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 62.0,
+  "repubVotes" : 35.0,
+  "party" : null
+}, {
+  "districtId" : 33,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 64.0,
+  "repubVotes" : 33.0,
+  "party" : null
+}, {
+  "districtId" : 34,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 77.0,
+  "repubVotes" : 19.0,
+  "party" : null
+}, {
+  "districtId" : 35,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 64.0,
+  "repubVotes" : 32.0,
+  "party" : null
+}, {
+  "districtId" : 36,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 50.0,
+  "repubVotes" : 47.0,
+  "party" : null
+}, {
+  "districtId" : 37,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 84.0,
+  "repubVotes" : 13.0,
+  "party" : null
+}, {
+  "districtId" : 38,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 61.0,
+  "repubVotes" : 35.0,
+  "party" : null
+}, {
+  "districtId" : 39,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 47.0,
+  "repubVotes" : 49.0,
+  "party" : null
+}, {
+  "districtId" : 40,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 77.0,
+  "repubVotes" : 19.0,
+  "party" : null
+}, {
+  "districtId" : 41,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 59.0,
+  "repubVotes" : 38.0,
+  "party" : null
+}, {
+  "districtId" : 42,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 43.0,
+  "repubVotes" : 54.0,
+  "party" : null
+}, {
+  "districtId" : 43,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 75.0,
+  "repubVotes" : 22.0,
+  "party" : null
+}, {
+  "districtId" : 44,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 81.0,
+  "repubVotes" : 16.0,
+  "party" : null
+}, {
+  "districtId" : 45,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 46.0,
+  "repubVotes" : 51.0,
+  "party" : null
+}, {
+  "districtId" : 46,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 58.0,
+  "repubVotes" : 39.0,
+  "party" : null
+}, {
+  "districtId" : 47,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 58.0,
+  "repubVotes" : 39.0,
+  "party" : null
+}, {
+  "districtId" : 48,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 46.0,
+  "repubVotes" : 51.0,
+  "party" : null
+}, {
+  "districtId" : 49,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 49.0,
+  "repubVotes" : 48.0,
+  "party" : null
+}, {
+  "districtId" : 50,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 39.0,
+  "repubVotes" : 58.0,
+  "party" : null
+}, {
+  "districtId" : 51,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 65.0,
+  "repubVotes" : 32.0,
+  "party" : null
+}, {
+  "districtId" : 52,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 55.0,
+  "repubVotes" : 43.0,
+  "party" : null
+}, {
+  "districtId" : 53,
+  "year" : 2014,
+  "stateName" : "CA",
+  "demoVotes" : 61.0,
+  "repubVotes" : 36.0,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "CO",
+  "demoVotes" : 70.9,
+  "repubVotes" : 27.6,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "CO",
+  "demoVotes" : 61.2,
+  "repubVotes" : 37.2,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "CO",
+  "demoVotes" : 48.4,
+  "repubVotes" : 49.9,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "CO",
+  "demoVotes" : 41.9,
+  "repubVotes" : 56.4,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "CO",
+  "demoVotes" : 39.7,
+  "repubVotes" : 58.8,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "CO",
+  "demoVotes" : 53.6,
+  "repubVotes" : 44.9,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "CO",
+  "demoVotes" : 57.4,
+  "repubVotes" : 40.7,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "CT",
+  "demoVotes" : 65.8,
+  "repubVotes" : 32.9,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "CT",
+  "demoVotes" : 58.6,
+  "repubVotes" : 40.0,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "CT",
+  "demoVotes" : 62.6,
+  "repubVotes" : 36.2,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "CT",
+  "demoVotes" : 59.6,
+  "repubVotes" : 39.7,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "CT",
+  "demoVotes" : 56.4,
+  "repubVotes" : 42.4,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "DE",
+  "demoVotes" : 61.9,
+  "repubVotes" : 36.9,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 32.0,
+  "repubVotes" : 66.8,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 35.2,
+  "repubVotes" : 63.4,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 44.2,
+  "repubVotes" : 54.6,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 34.8,
+  "repubVotes" : 64.2,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 63.2,
+  "repubVotes" : 35.9,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 50.1,
+  "repubVotes" : 48.7,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 51.1,
+  "repubVotes" : 48.0,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 43.8,
+  "repubVotes" : 54.9,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 54.6,
+  "repubVotes" : 44.5,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 60.9,
+  "repubVotes" : 38.5,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 42.6,
+  "repubVotes" : 56.1,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 47.4,
+  "repubVotes" : 51.2,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 55.5,
+  "repubVotes" : 43.0,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 58.1,
+  "repubVotes" : 40.9,
+  "party" : null
+}, {
+  "districtId" : 15,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 46.7,
+  "repubVotes" : 52.1,
+  "party" : null
+}, {
+  "districtId" : 16,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 47.7,
+  "repubVotes" : 51.2,
+  "party" : null
+}, {
+  "districtId" : 17,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 43.9,
+  "repubVotes" : 54.7,
+  "party" : null
+}, {
+  "districtId" : 18,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 51.2,
+  "repubVotes" : 47.9,
+  "party" : null
+}, {
+  "districtId" : 19,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 42.3,
+  "repubVotes" : 56.8,
+  "party" : null
+}, {
+  "districtId" : 20,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 80.9,
+  "repubVotes" : 18.6,
+  "party" : null
+}, {
+  "districtId" : 21,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 63.4,
+  "repubVotes" : 35.9,
+  "party" : null
+}, {
+  "districtId" : 22,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 58.3,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 23,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 62.0,
+  "repubVotes" : 37.3,
+  "party" : null
+}, {
+  "districtId" : 24,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 84.0,
+  "repubVotes" : 15.6,
+  "party" : null
+}, {
+  "districtId" : 25,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 40.6,
+  "repubVotes" : 58.8,
+  "party" : null
+}, {
+  "districtId" : 26,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 51.5,
+  "repubVotes" : 47.9,
+  "party" : null
+}, {
+  "districtId" : 27,
+  "year" : 2014,
+  "stateName" : "FL",
+  "demoVotes" : 50.1,
+  "repubVotes" : 49.3,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 44.4,
+  "repubVotes" : 55.0,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 57.9,
+  "repubVotes" : 41.6,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 34.0,
+  "repubVotes" : 65.3,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 73.2,
+  "repubVotes" : 26.3,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 84.4,
+  "repubVotes" : 15.0,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 40.1,
+  "repubVotes" : 59.0,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 39.1,
+  "repubVotes" : 60.1,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 37.8,
+  "repubVotes" : 61.6,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 24.3,
+  "repubVotes" : 74.7,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 38.8,
+  "repubVotes" : 60.4,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 34.7,
+  "repubVotes" : 64.3,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 43.9,
+  "repubVotes" : 55.6,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 67.1,
+  "repubVotes" : 32.3,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "GA",
+  "demoVotes" : 27.8,
+  "repubVotes" : 71.0,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "HI",
+  "demoVotes" : 70.3,
+  "repubVotes" : 28.3,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "HI",
+  "demoVotes" : 73.4,
+  "repubVotes" : 24.9,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "IA",
+  "demoVotes" : 58.5,
+  "repubVotes" : 40.4,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "IA",
+  "demoVotes" : 57.1,
+  "repubVotes" : 41.6,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "IA",
+  "demoVotes" : 52.4,
+  "repubVotes" : 46.3,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "IA",
+  "demoVotes" : 48.5,
+  "repubVotes" : 50.2,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "ID",
+  "demoVotes" : 35.1,
+  "repubVotes" : 62.5,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "ID",
+  "demoVotes" : 37.1,
+  "repubVotes" : 60.5,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 80.8,
+  "repubVotes" : 18.5,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 81.1,
+  "repubVotes" : 18.2,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 58.3,
+  "repubVotes" : 40.4,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 80.5,
+  "repubVotes" : 18.2,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 69.9,
+  "repubVotes" : 28.8,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 51.3,
+  "repubVotes" : 47.3,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 89.4,
+  "repubVotes" : 9.9,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 61.5,
+  "repubVotes" : 37.1,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 68.6,
+  "repubVotes" : 30.3,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 63.0,
+  "repubVotes" : 35.9,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 61.3,
+  "repubVotes" : 37.5,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 54.7,
+  "repubVotes" : 43.6,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 54.6,
+  "repubVotes" : 43.6,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 50.7,
+  "repubVotes" : 48.0,
+  "party" : null
+}, {
+  "districtId" : 15,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 42.8,
+  "repubVotes" : 55.4,
+  "party" : null
+}, {
+  "districtId" : 16,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 50.0,
+  "repubVotes" : 48.2,
+  "party" : null
+}, {
+  "districtId" : 17,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 60.0,
+  "repubVotes" : 38.5,
+  "party" : null
+}, {
+  "districtId" : 18,
+  "year" : 2014,
+  "stateName" : "IL",
+  "demoVotes" : 44.1,
+  "repubVotes" : 54.4,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 63.3,
+  "repubVotes" : 35.8,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 49.6,
+  "repubVotes" : 49.3,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 43.0,
+  "repubVotes" : 56.0,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 44.6,
+  "repubVotes" : 54.2,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 46.6,
+  "repubVotes" : 52.6,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 43.6,
+  "repubVotes" : 55.0,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 66.3,
+  "repubVotes" : 32.8,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 48.1,
+  "repubVotes" : 50.6,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "IN",
+  "demoVotes" : 46.2,
+  "repubVotes" : 52.7,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "KS",
+  "demoVotes" : 31.0,
+  "repubVotes" : 67.2,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "KS",
+  "demoVotes" : 45.3,
+  "repubVotes" : 52.8,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "KS",
+  "demoVotes" : 48.8,
+  "repubVotes" : 49.9,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "KS",
+  "demoVotes" : 39.5,
+  "repubVotes" : 58.6,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "KY",
+  "demoVotes" : 36.9,
+  "repubVotes" : 61.6,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "KY",
+  "demoVotes" : 37.2,
+  "repubVotes" : 61.5,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "KY",
+  "demoVotes" : 56.2,
+  "repubVotes" : 42.8,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "KY",
+  "demoVotes" : 37.0,
+  "repubVotes" : 61.5,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "KY",
+  "demoVotes" : 31.6,
+  "repubVotes" : 66.6,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "KY",
+  "demoVotes" : 44.8,
+  "repubVotes" : 53.7,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "LA",
+  "demoVotes" : 25.3,
+  "repubVotes" : 72.7,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "LA",
+  "demoVotes" : 73.4,
+  "repubVotes" : 25.4,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "LA",
+  "demoVotes" : 34.1,
+  "repubVotes" : 64.2,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "LA",
+  "demoVotes" : 39.9,
+  "repubVotes" : 58.9,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "LA",
+  "demoVotes" : 36.7,
+  "repubVotes" : 62.0,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "LA",
+  "demoVotes" : 30.9,
+  "repubVotes" : 67.5,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 64.1,
+  "repubVotes" : 33.7,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 60.4,
+  "repubVotes" : 37.5,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 58.8,
+  "repubVotes" : 39.4,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 60.4,
+  "repubVotes" : 37.9,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 66.2,
+  "repubVotes" : 32.1,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 56.9,
+  "repubVotes" : 41.4,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 81.9,
+  "repubVotes" : 16.7,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 57.9,
+  "repubVotes" : 40.5,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "MA",
+  "demoVotes" : 57.8,
+  "repubVotes" : 40.6,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "MD",
+  "demoVotes" : 38.4,
+  "repubVotes" : 59.6,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "MD",
+  "demoVotes" : 60.6,
+  "repubVotes" : 37.5,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "MD",
+  "demoVotes" : 60.1,
+  "repubVotes" : 38.0,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "MD",
+  "demoVotes" : 77.3,
+  "repubVotes" : 21.8,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "MD",
+  "demoVotes" : 65.1,
+  "repubVotes" : 33.6,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "MD",
+  "demoVotes" : 56.3,
+  "repubVotes" : 42.0,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "MD",
+  "demoVotes" : 76.2,
+  "repubVotes" : 22.4,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "MD",
+  "demoVotes" : 62.8,
+  "repubVotes" : 35.6,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "ME",
+  "demoVotes" : 60.7,
+  "repubVotes" : 37.5,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "ME",
+  "demoVotes" : 54.6,
+  "repubVotes" : 43.4,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 49.7,
+  "repubVotes" : 48.4,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 48.0,
+  "repubVotes" : 50.3,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 49.7,
+  "repubVotes" : 48.6,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 49.6,
+  "repubVotes" : 48.6,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 63.0,
+  "repubVotes" : 35.3,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 53.1,
+  "repubVotes" : 45.2,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 50.8,
+  "repubVotes" : 47.4,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 52.0,
+  "repubVotes" : 46.4,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 58.1,
+  "repubVotes" : 40.1,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 48.0,
+  "repubVotes" : 50.0,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 50.2,
+  "repubVotes" : 48.3,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 66.9,
+  "repubVotes" : 31.4,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 84.8,
+  "repubVotes" : 14.2,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "MI",
+  "demoVotes" : 82.2,
+  "repubVotes" : 17.1,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "MN",
+  "demoVotes" : 50.8,
+  "repubVotes" : 46.7,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "MN",
+  "demoVotes" : 50.5,
+  "repubVotes" : 47.6,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "MN",
+  "demoVotes" : 51.0,
+  "repubVotes" : 47.4,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "MN",
+  "demoVotes" : 62.6,
+  "repubVotes" : 35.5,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "MN",
+  "demoVotes" : 73.4,
+  "repubVotes" : 24.5,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "MN",
+  "demoVotes" : 43.2,
+  "repubVotes" : 54.7,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "MN",
+  "demoVotes" : 47.1,
+  "repubVotes" : 50.4,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "MN",
+  "demoVotes" : 53.1,
+  "repubVotes" : 44.5,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "MO",
+  "demoVotes" : 80.3,
+  "repubVotes" : 18.6,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "MO",
+  "demoVotes" : 46.4,
+  "repubVotes" : 52.6,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "MO",
+  "demoVotes" : 42.8,
+  "repubVotes" : 55.8,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "MO",
+  "demoVotes" : 41.9,
+  "repubVotes" : 56.5,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "MO",
+  "demoVotes" : 62.0,
+  "repubVotes" : 36.8,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "MO",
+  "demoVotes" : 43.1,
+  "repubVotes" : 55.3,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "MO",
+  "demoVotes" : 35.3,
+  "repubVotes" : 63.1,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "MO",
+  "demoVotes" : 38.3,
+  "repubVotes" : 60.0,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "MS",
+  "demoVotes" : 36.6,
+  "repubVotes" : 62.4,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "MS",
+  "demoVotes" : 64.2,
+  "repubVotes" : 35.2,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "MS",
+  "demoVotes" : 38.4,
+  "repubVotes" : 60.8,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "MS",
+  "demoVotes" : 31.1,
+  "repubVotes" : 67.9,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "MT",
+  "demoVotes" : 47.3,
+  "repubVotes" : 49.5,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 67.3,
+  "repubVotes" : 32.2,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 44.8,
+  "repubVotes" : 54.3,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 42.4,
+  "repubVotes" : 56.8,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 65.8,
+  "repubVotes" : 33.2,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 44.6,
+  "repubVotes" : 54.2,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 45.2,
+  "repubVotes" : 53.8,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 44.6,
+  "repubVotes" : 54.6,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 45.3,
+  "repubVotes" : 53.9,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 45.2,
+  "repubVotes" : 54.0,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 41.6,
+  "repubVotes" : 57.4,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 41.5,
+  "repubVotes" : 57.1,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 68.0,
+  "repubVotes" : 31.3,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "NC",
+  "demoVotes" : 47.9,
+  "repubVotes" : 51.2,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "ND",
+  "demoVotes" : 44.6,
+  "repubVotes" : 53.3,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "NE",
+  "demoVotes" : 44.2,
+  "repubVotes" : 54.3,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "NE",
+  "demoVotes" : 50.0,
+  "repubVotes" : 48.8,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "NE",
+  "demoVotes" : 31.1,
+  "repubVotes" : 67.1,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "NH",
+  "demoVotes" : 52.8,
+  "repubVotes" : 46.4,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "NH",
+  "demoVotes" : 56.0,
+  "repubVotes" : 43.1,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 64.7,
+  "repubVotes" : 34.2,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 53.2,
+  "repubVotes" : 45.5,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 51.1,
+  "repubVotes" : 47.7,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 45.3,
+  "repubVotes" : 53.6,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 48.5,
+  "repubVotes" : 50.5,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 58.4,
+  "repubVotes" : 40.5,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 47.2,
+  "repubVotes" : 51.6,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 73.2,
+  "repubVotes" : 26.0,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 64.0,
+  "repubVotes" : 35.2,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 84.9,
+  "repubVotes" : 14.6,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 47.0,
+  "repubVotes" : 52.1,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "NJ",
+  "demoVotes" : 65.7,
+  "repubVotes" : 33.3,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "NM",
+  "demoVotes" : 59.7,
+  "repubVotes" : 39.0,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "NM",
+  "demoVotes" : 48.4,
+  "repubVotes" : 50.2,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "NM",
+  "demoVotes" : 61.2,
+  "repubVotes" : 37.5,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "NV",
+  "demoVotes" : 64.5,
+  "repubVotes" : 33.0,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "NV",
+  "demoVotes" : 49.4,
+  "repubVotes" : 48.2,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "NV",
+  "demoVotes" : 53.5,
+  "repubVotes" : 44.6,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "NV",
+  "demoVotes" : 56.4,
+  "repubVotes" : 41.4,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 51.0,
+  "repubVotes" : 48.0,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 51.0,
+  "repubVotes" : 48.0,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 54.0,
+  "repubVotes" : 46.0,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 55.0,
+  "repubVotes" : 44.0,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 86.0,
+  "repubVotes" : 14.0,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 63.0,
+  "repubVotes" : 36.0,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 84.0,
+  "repubVotes" : 15.0,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 86.0,
+  "repubVotes" : 14.0,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 84.0,
+  "repubVotes" : 15.0,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 76.0,
+  "repubVotes" : 23.0,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 48.0,
+  "repubVotes" : 51.0,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 80.0,
+  "repubVotes" : 19.0,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 93.0,
+  "repubVotes" : 6.0,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 76.0,
+  "repubVotes" : 23.0,
+  "party" : null
+}, {
+  "districtId" : 15,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 95.0,
+  "repubVotes" : 5.0,
+  "party" : null
+}, {
+  "districtId" : 16,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 73.0,
+  "repubVotes" : 26.0,
+  "party" : null
+}, {
+  "districtId" : 17,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 58.0,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 18,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 52.0,
+  "repubVotes" : 47.0,
+  "party" : null
+}, {
+  "districtId" : 19,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 53.0,
+  "repubVotes" : 45.0,
+  "party" : null
+}, {
+  "districtId" : 20,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 58.0,
+  "repubVotes" : 40.0,
+  "party" : null
+}, {
+  "districtId" : 21,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 52.0,
+  "repubVotes" : 47.0,
+  "party" : null
+}, {
+  "districtId" : 22,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 49.0,
+  "repubVotes" : 49.0,
+  "party" : null
+}, {
+  "districtId" : 23,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 50.0,
+  "repubVotes" : 49.0,
+  "party" : null
+}, {
+  "districtId" : 24,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 56.0,
+  "repubVotes" : 42.0,
+  "party" : null
+}, {
+  "districtId" : 25,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 59.0,
+  "repubVotes" : 40.0,
+  "party" : null
+}, {
+  "districtId" : 26,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 63.0,
+  "repubVotes" : 35.0,
+  "party" : null
+}, {
+  "districtId" : 27,
+  "year" : 2014,
+  "stateName" : "NY",
+  "demoVotes" : 44.0,
+  "repubVotes" : 54.0,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 47.2,
+  "repubVotes" : 51.8,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 44.3,
+  "repubVotes" : 54.2,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 67.4,
+  "repubVotes" : 31.3,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 43.7,
+  "repubVotes" : 54.4,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 46.0,
+  "repubVotes" : 52.2,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 44.7,
+  "repubVotes" : 53.1,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 46.9,
+  "repubVotes" : 50.9,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 38.1,
+  "repubVotes" : 60.3,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 66.8,
+  "repubVotes" : 31.6,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 49.3,
+  "repubVotes" : 49.3,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 82.0,
+  "repubVotes" : 17.2,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 44.8,
+  "repubVotes" : 53.7,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 62.3,
+  "repubVotes" : 35.8,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 49.1,
+  "repubVotes" : 49.4,
+  "party" : null
+}, {
+  "districtId" : 15,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 46.1,
+  "repubVotes" : 52.2,
+  "party" : null
+}, {
+  "districtId" : 16,
+  "year" : 2014,
+  "stateName" : "OH",
+  "demoVotes" : 47.2,
+  "repubVotes" : 51.3,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "OK",
+  "demoVotes" : 35.8,
+  "repubVotes" : 64.2,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "OK",
+  "demoVotes" : 34.3,
+  "repubVotes" : 65.7,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "OK",
+  "demoVotes" : 27.1,
+  "repubVotes" : 72.9,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "OK",
+  "demoVotes" : 33.9,
+  "repubVotes" : 66.1,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "OK",
+  "demoVotes" : 40.8,
+  "repubVotes" : 59.2,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "OR",
+  "demoVotes" : 59.6,
+  "repubVotes" : 37.7,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "OR",
+  "demoVotes" : 43.3,
+  "repubVotes" : 53.8,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "OR",
+  "demoVotes" : 72.9,
+  "repubVotes" : 24.3,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "OR",
+  "demoVotes" : 54.2,
+  "repubVotes" : 42.7,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "OR",
+  "demoVotes" : 53.0,
+  "repubVotes" : 44.2,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 78.7,
+  "repubVotes" : 20.6,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 91.0,
+  "repubVotes" : 8.8,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 46.3,
+  "repubVotes" : 52.3,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 45.1,
+  "repubVotes" : 53.8,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 47.1,
+  "repubVotes" : 51.5,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 53.0,
+  "repubVotes" : 46.0,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 51.2,
+  "repubVotes" : 47.8,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 53.2,
+  "repubVotes" : 45.7,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 40.9,
+  "repubVotes" : 57.9,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 42.3,
+  "repubVotes" : 56.5,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 47.1,
+  "repubVotes" : 51.7,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 44.7,
+  "repubVotes" : 54.1,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 65.4,
+  "repubVotes" : 33.7,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 67.0,
+  "repubVotes" : 32.0,
+  "party" : null
+}, {
+  "districtId" : 15,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 52.1,
+  "repubVotes" : 46.6,
+  "party" : null
+}, {
+  "districtId" : 16,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 50.1,
+  "repubVotes" : 49.0,
+  "party" : null
+}, {
+  "districtId" : 17,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 56.9,
+  "repubVotes" : 41.9,
+  "party" : null
+}, {
+  "districtId" : 18,
+  "year" : 2014,
+  "stateName" : "PA",
+  "demoVotes" : 43.8,
+  "repubVotes" : 55.2,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "RI",
+  "demoVotes" : 66.6,
+  "repubVotes" : 31.8,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "RI",
+  "demoVotes" : 59.9,
+  "repubVotes" : 38.3,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "SC",
+  "demoVotes" : 42.7,
+  "repubVotes" : 56.1,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "SC",
+  "demoVotes" : 39.4,
+  "repubVotes" : 59.5,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "SC",
+  "demoVotes" : 35.1,
+  "repubVotes" : 63.5,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "SC",
+  "demoVotes" : 37.7,
+  "repubVotes" : 60.6,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "SC",
+  "demoVotes" : 43.8,
+  "repubVotes" : 55.0,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "SC",
+  "demoVotes" : 70.1,
+  "repubVotes" : 28.9,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "SC",
+  "demoVotes" : 45.3,
+  "repubVotes" : 53.6,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "SD",
+  "demoVotes" : 44.7,
+  "repubVotes" : 53.2,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 28.6,
+  "repubVotes" : 69.9,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 34.5,
+  "repubVotes" : 64.0,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 37.3,
+  "repubVotes" : 61.3,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 35.8,
+  "repubVotes" : 62.6,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 57.5,
+  "repubVotes" : 41.3,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 33.5,
+  "repubVotes" : 64.9,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 36.3,
+  "repubVotes" : 62.4,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 34.9,
+  "repubVotes" : 64.1,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "TN",
+  "demoVotes" : 77.0,
+  "repubVotes" : 22.5,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 30.0,
+  "repubVotes" : 69.0,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 37.0,
+  "repubVotes" : 62.0,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 37.0,
+  "repubVotes" : 61.0,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 29.0,
+  "repubVotes" : 70.0,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 37.0,
+  "repubVotes" : 62.0,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 42.0,
+  "repubVotes" : 57.0,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 40.0,
+  "repubVotes" : 59.0,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 26.0,
+  "repubVotes" : 73.0,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 76.0,
+  "repubVotes" : 23.0,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 43.0,
+  "repubVotes" : 56.0,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 23.0,
+  "repubVotes" : 76.0,
+  "party" : null
+}, {
+  "districtId" : 12,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 35.0,
+  "repubVotes" : 64.0,
+  "party" : null
+}, {
+  "districtId" : 13,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 22.0,
+  "repubVotes" : 77.0,
+  "party" : null
+}, {
+  "districtId" : 14,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 42.0,
+  "repubVotes" : 57.0,
+  "party" : null
+}, {
+  "districtId" : 15,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 57.0,
+  "repubVotes" : 42.0,
+  "party" : null
+}, {
+  "districtId" : 16,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 64.0,
+  "repubVotes" : 35.0,
+  "party" : null
+}, {
+  "districtId" : 17,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 41.0,
+  "repubVotes" : 58.0,
+  "party" : null
+}, {
+  "districtId" : 18,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 77.0,
+  "repubVotes" : 23.0,
+  "party" : null
+}, {
+  "districtId" : 19,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 28.0,
+  "repubVotes" : 71.0,
+  "party" : null
+}, {
+  "districtId" : 20,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 58.0,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 21,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 42.0,
+  "repubVotes" : 56.0,
+  "party" : null
+}, {
+  "districtId" : 22,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 39.0,
+  "repubVotes" : 60.0,
+  "party" : null
+}, {
+  "districtId" : 23,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 50.0,
+  "repubVotes" : 49.0,
+  "party" : null
+}, {
+  "districtId" : 24,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 41.0,
+  "repubVotes" : 58.0,
+  "party" : null
+}, {
+  "districtId" : 25,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 43.0,
+  "repubVotes" : 56.0,
+  "party" : null
+}, {
+  "districtId" : 26,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 35.0,
+  "repubVotes" : 64.0,
+  "party" : null
+}, {
+  "districtId" : 27,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 40.0,
+  "repubVotes" : 59.0,
+  "party" : null
+}, {
+  "districtId" : 28,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 58.0,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 29,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 62.0,
+  "repubVotes" : 37.0,
+  "party" : null
+}, {
+  "districtId" : 30,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 78.0,
+  "repubVotes" : 21.0,
+  "party" : null
+}, {
+  "districtId" : 31,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 43.0,
+  "repubVotes" : 56.0,
+  "party" : null
+}, {
+  "districtId" : 32,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 44.0,
+  "repubVotes" : 55.0,
+  "party" : null
+}, {
+  "districtId" : 33,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 69.0,
+  "repubVotes" : 31.0,
+  "party" : null
+}, {
+  "districtId" : 34,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 60.0,
+  "repubVotes" : 39.0,
+  "party" : null
+}, {
+  "districtId" : 35,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 63.0,
+  "repubVotes" : 35.0,
+  "party" : null
+}, {
+  "districtId" : 36,
+  "year" : 2014,
+  "stateName" : "TX",
+  "demoVotes" : 30.0,
+  "repubVotes" : 69.0,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "UT",
+  "demoVotes" : 29.4,
+  "repubVotes" : 67.7,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "UT",
+  "demoVotes" : 38.4,
+  "repubVotes" : 58.5,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "UT",
+  "demoVotes" : 29.5,
+  "repubVotes" : 67.5,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "UT",
+  "demoVotes" : 40.9,
+  "repubVotes" : 56.1,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 43.8,
+  "repubVotes" : 55.4,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 47.9,
+  "repubVotes" : 51.1,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 65.4,
+  "repubVotes" : 33.9,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 60.1,
+  "repubVotes" : 39.1,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 46.8,
+  "repubVotes" : 52.2,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 41.2,
+  "repubVotes" : 57.7,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 44.9,
+  "repubVotes" : 54.3,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 66.3,
+  "repubVotes" : 32.8,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 39.7,
+  "repubVotes" : 58.9,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 49.6,
+  "repubVotes" : 49.6,
+  "party" : null
+}, {
+  "districtId" : 11,
+  "year" : 2014,
+  "stateName" : "VA",
+  "demoVotes" : 60.7,
+  "repubVotes" : 38.5,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "VT",
+  "demoVotes" : 67.8,
+  "repubVotes" : 30.6,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 56.3,
+  "repubVotes" : 41.9,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 60.5,
+  "repubVotes" : 37.6,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 50.9,
+  "repubVotes" : 47.1,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 39.2,
+  "repubVotes" : 58.9,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 46.3,
+  "repubVotes" : 51.2,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 57.0,
+  "repubVotes" : 40.9,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 80.4,
+  "repubVotes" : 18.0,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 51.5,
+  "repubVotes" : 46.8,
+  "party" : null
+}, {
+  "districtId" : 9,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 68.6,
+  "repubVotes" : 29.9,
+  "party" : null
+}, {
+  "districtId" : 10,
+  "year" : 2014,
+  "stateName" : "WA",
+  "demoVotes" : 57.2,
+  "repubVotes" : 41.0,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "WI",
+  "demoVotes" : 50.8,
+  "repubVotes" : 48.1,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "WI",
+  "demoVotes" : 70.1,
+  "repubVotes" : 28.6,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "WI",
+  "demoVotes" : 59.4,
+  "repubVotes" : 39.1,
+  "party" : null
+}, {
+  "districtId" : 4,
+  "year" : 2014,
+  "stateName" : "WI",
+  "demoVotes" : 74.4,
+  "repubVotes" : 24.6,
+  "party" : null
+}, {
+  "districtId" : 5,
+  "year" : 2014,
+  "stateName" : "WI",
+  "demoVotes" : 41.8,
+  "repubVotes" : 57.2,
+  "party" : null
+}, {
+  "districtId" : 6,
+  "year" : 2014,
+  "stateName" : "WI",
+  "demoVotes" : 49.4,
+  "repubVotes" : 49.3,
+  "party" : null
+}, {
+  "districtId" : 7,
+  "year" : 2014,
+  "stateName" : "WI",
+  "demoVotes" : 53.2,
+  "repubVotes" : 45.3,
+  "party" : null
+}, {
+  "districtId" : 8,
+  "year" : 2014,
+  "stateName" : "WI",
+  "demoVotes" : 53.7,
+  "repubVotes" : 45.0,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "WV",
+  "demoVotes" : 41.5,
+  "repubVotes" : 56.7,
+  "party" : null
+}, {
+  "districtId" : 2,
+  "year" : 2014,
+  "stateName" : "WV",
+  "demoVotes" : 43.9,
+  "repubVotes" : 54.7,
+  "party" : null
+}, {
+  "districtId" : 3,
+  "year" : 2014,
+  "stateName" : "WV",
+  "demoVotes" : 42.3,
+  "repubVotes" : 55.7,
+  "party" : null
+}, {
+  "districtId" : 1,
+  "year" : 2014,
+  "stateName" : "WY",
+  "demoVotes" : 32.7,
+  "repubVotes" : 65.2,
+  "party" : null
+} ]

@@ -1,0 +1,47 @@
+{
+  "year" : 2016,
+  "states" : [ {
+    "stateName" : "us-nc",
+    "testFailed" : 1
+  } ],
+  "districts" : [ {
+    "districtNum" : "us-nc-01",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-02",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-03",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-04",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-05",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-06",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-07",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-08",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-09",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-10",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-11",
+    "party" : 1
+  }, {
+    "districtNum" : "us-nc-12",
+    "party" : 0
+  }, {
+    "districtNum" : "us-nc-13",
+    "party" : 1
+  } ]
+}

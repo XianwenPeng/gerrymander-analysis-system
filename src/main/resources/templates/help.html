@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Handling Form Submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    
+    <script src="../js/map.js"></script>
+    <script src="../js/animation.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+	<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+	<!-- <link rel="stylesheet" href="../css/map.css"> -->
+	<link rel="stylesheet" href="../css/animation.css">
+	<link th:href="@{css/style.css}" rel="stylesheet" />
+	
+
+</head>
+<body>
+	<!-- jQuery-->
+  <script
+    src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <!-- Bootstrap -->
+  <script
+    src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+
+  <!-- Bootstrap Validator plugin -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+	
+	<header><div th:replace="fragments/header :: header">Header</div></header>
+	<div class = "helpGerrymander">
+		<h1> How to Use </h1>
+		<div>
+			<img class = "helpInDiv" src="../img/mapimg.jpeg" height="240" width="467">
+			<p>Click on your state to see how it performs on our gerrymander detection tests. You can view the historical 
+			trends using the years selector above. You can also see how the tests work, or run your own with more detailed results.
+			</p>
+			<p>On gerrymander page, you can see the results of applying our tests to Congressional districts. We’ll show you the lopsidedness
+			 and asymmetry of the results, and estimate how the state would have looked without gerrymandering. If you’re new to gerrymandering
+			  and our site, pick a state and year on the “Basic” tab. If you have more experience (or you’re more daring), you may want to explore
+			   the tests in more detail using the settings found in the “Advanced” tab.</p>
+			</div>
+	</div>
+</body>
+</html>

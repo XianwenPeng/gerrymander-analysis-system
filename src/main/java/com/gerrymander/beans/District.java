@@ -1,43 +1,54 @@
 package com.gerrymander.beans;
 
-import java.time.Year;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.IdClass;
 import javax.persistence.Table;
 
 @Entity
+@IdClass(DistrictId.class)
 @Table(name = "district")
 public class District {
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	@Column(name = "uniqueId")
 	private int uniqueId;
 	
-	@Column(name = "districtId", nullable = false)
+	@Id
 	private int districtId;
 	
-	@Column(name = "year", nullable = false)
+	@Id
 	private int year;
 	
-	@Column(name = "stateName", nullable = false)
+	@Id
 	private String stateName;
-	
-	@Column(name = "representative")
-	private String representative;
-	
-	@Column(name = "area")
-	private double area;
-	
-	@Column(name = "population")
-	private double population;
 	
 	@Column(name = "party")
 	private Party party;
 	
+	@Column(name = "demoRatio")
+	private double demoRatio;
+	
+	@Column(name = "repubRatio")
+	private double repubRatio;
+	
+	public double getDemoRatio() {
+		return demoRatio;
+	}
+
+	public void setDemoRatio(double demoRatio) {
+		this.demoRatio = demoRatio;
+	}
+
+	public double getRepubRatio() {
+		return repubRatio;
+	}
+
+	public void setRepubRatio(double repubRatio) {
+		this.repubRatio = repubRatio;
+	}
+
 	public District() {
 		
 	}
@@ -53,6 +64,15 @@ public class District {
 		this.districtId = districtId;
 		this.year = year;
 		this.party = party;
+	}
+	
+	public District(String stateName, int districtId, int year, Party party, double demoRatio, double repubRatio) {
+		this.stateName = stateName;
+		this.districtId = districtId;
+		this.year = year;
+		this.party = party;
+		this.demoRatio = demoRatio;
+		this.repubRatio = repubRatio;
 	}
 	
 	public Party getParty() {
@@ -85,30 +105,6 @@ public class District {
 
 	public void setStateName(String stateName) {
 		this.stateName = stateName;
-	}
-
-	public String getRepresentative() {
-		return representative;
-	}
-
-	public void setRepresentative(String representative) {
-		this.representative = representative;
-	}
-
-	public double getArea() {
-		return area;
-	}
-
-	public void setArea(double area) {
-		this.area = area;
-	}
-
-	public double getPopulation() {
-		return population;
-	}
-
-	public void setPopulation(double population) {
-		this.population = population;
 	}
 
 }

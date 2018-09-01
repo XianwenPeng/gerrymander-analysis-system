@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html   xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.thymeleaf.org"
+        xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+    <head>
+        <title>Title of Fragment</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="../css/animation.css">
+        <script src="/js/map.js"></script>
+    		<script src="/js/animation.js"></script>
+    		<link rel="stylesheet" href="/css/animation.css">
+    </head>
+    <body>    
+         <div th:fragment="header">
+			<img src="/img/SBLogo.png" alt="Stony Brook Logo" id="SBLogo" align="left">
+			<img src="/img/SBLogoBackground.png" alt="Stony Brook Logo Background" id="SBLogoBackground">
+			<h1>Welcome to the Stony Brook University's<br/> Gerrymandering Analysis page </h1>
+			<div class="menuBtn">
+				<div class="dropdown">
+					<button onclick="openNav()" class="dropbtn">Menu</button>
+					<div id="mySidenav" class="sidenav">
+					  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+					  <a href="http://localhost:8080/gerrymander">Home</a>
+					    <a href="http://localhost:8080/gerrymander/account">Account</a>
+					    <a th:if="${userAdmin.role} == 'admin'" href="http://localhost:8080/gerrymander/manage">Manage</a>
+					    <a href="http://localhost:8080/gerrymander/about">About</a>
+					    <a href="http://localhost:8080/gerrymander/help">Help</a>
+					    <a href="http://localhost:8080/gerrymander/credit">Credit</a>
+					    <a href="http://localhost:8080/gerrymander/logout">Log out</a>
+					</div>
+				</div>
+			</div>
+		</div>
+    </body>
+	
+</body>
+</html>

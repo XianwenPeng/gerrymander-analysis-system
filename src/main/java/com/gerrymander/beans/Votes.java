@@ -5,23 +5,22 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.IdClass;
 import javax.persistence.Table;
 
 @Entity
 @Table(name = "votes")
+@IdClass(VotesId.class)
 public class Votes {
+	
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	@Column(name = "id")
 	private int id;
 	
-	@Column(name = "districtId", nullable = false)
+	@Id
 	private int districtId;
-	
-	@Column(name = "year", nullable = false)
+	@Id
 	private int year;
-	
-	@Column(name = "stateName", nullable = false)
+	@Id
 	private String stateName;
 	
 	@Column(name = "demoVotes")
@@ -42,11 +41,9 @@ public class Votes {
 		this.year = year;
 		this.demoVotes = demoVotes;
 		this.repubVotes = repubVotes;
-		if(demoVotes > repubVotes)
-			this.party = Party.DEMOCRATIC;
-		else
-			this.party = Party.REPUBLICAN;
+		
 	}
+	
 	
 	public Votes(int id, String stateName, int districtId, int year, double demoVotes, double repubVotes) {
 		this.id = id;
@@ -56,9 +53,9 @@ public class Votes {
 		this.demoVotes = demoVotes;
 		this.repubVotes = repubVotes;
 		if(demoVotes > repubVotes)
-			this.party = Party.DEMOCRATIC;
+			this.setParty(Party.DEMOCRATIC);
 		else
-			this.party = Party.REPUBLICAN;
+			this.setParty(Party.REPUBLICAN);
 	}
 	
 	public int getDistrictId() {
@@ -99,6 +96,14 @@ public class Votes {
 
 	public void setDemoVotes(double demoVotes) {
 		this.demoVotes = demoVotes;
+	}
+
+	public Party getParty() {
+		return party;
+	}
+
+	public void setParty(Party party) {
+		this.party = party;
 	}
 
 	

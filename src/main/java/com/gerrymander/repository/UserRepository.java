@@ -8,4 +8,8 @@ import com.gerrymander.beans.User;
 @Repository("userRepository")
 public interface UserRepository extends CrudRepository<User, Long> {
 	 User findByEmail(String email);
+	 
+	 User findByRole(String role);
+	 
+	 User findByStatus(String status);
 }

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Handling Form Submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script src="../js/animation.js"></script>
+	<link rel="stylesheet" href="../css/animation.css">
+</head>
+<style>
+.axis path,
+.axis line{
+	fill:none;
+	stroke:black;
+	shape-rendering:crispEdges;
+}
+.axis text{
+	font-family: sans-serif;
+	font-size: 11px;
+}
+</style>
+<body>
+	<div th:fragment="excessFrag">
+	<h1>Excess Seats Result</h1>
+	<form action="#" th:action="@{/gerrymander}" th:object="${resultPane}" method="post">
+		<b th:text="'Excess Seats Result: ' + ${resultPane.excessSeats.result}" /></b>
+		<p th:text="'State Name: ' + ${resultPane.state.stateName}" />
+		<p th:text="'Year: ' + ${resultPane.state.year}" />
+		<p th:text="'Democratic Seats: ' + ${resultPane.state.demoSeats}" />
+		<p th:text="'Republican Seats: ' + ${resultPane.state.repubSeats}" />
+		<p th:text="'Excess Seats Explaination: ' + ${resultPane.excessSeats.excessExplain}" />
+    </form>
+    <table>
+                <thead>
+                <tr>
+                    <!-- <th>ID&emsp;&emsp;&nbsp;</th> -->
+                    <th>District ID&emsp;&emsp;&nbsp;</th>
+                    <th>Win Party&emsp;&emsp;&nbsp;</th>
+                    <th>Democratic Vote&emsp;&emsp;&nbsp;</th>
+                    <th>Republican Vote&emsp;&emsp;&nbsp;</th>
+                  
+                </tr>
+                </thead>
+                	        <tbody>
+			    <tr th:each="district: ${districtList}">
+			        <!-- <td th:text="${user.id}" /> -->
+			        <td th:text="${district.districtId}" />
+			        <td th:text="${district.party}" />
+			        <td th:text="${district.demoRatio}" />
+			        <td th:text="${district.repubRatio}" />
+			    </tr>
+				</tbody>
+			</table>  
+    <P></P>
+    <P></P>
+    <P></P>
+    <P></P>
+    
+	  	<!-- // <script src="d3/d3.js" charset="utf-8"></script> -->
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+   
+    </div>
+</body>
+</html>

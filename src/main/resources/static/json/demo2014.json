@@ -1,0 +1,501 @@
+[ {
+  "id" : 16966,
+  "stateName" : "AL",
+  "year" : 2014,
+  "male" : 1734,
+  "female" : 1922,
+  "white" : 2586,
+  "black" : 922,
+  "asian" : 51,
+  "hispanic" : 136
+}, {
+  "id" : 16967,
+  "stateName" : "AK",
+  "year" : 2014,
+  "male" : 264,
+  "female" : 257,
+  "white" : 340,
+  "black" : 18,
+  "asian" : 28,
+  "hispanic" : 28
+}, {
+  "id" : 16968,
+  "stateName" : "AZ",
+  "year" : 2014,
+  "male" : 2423,
+  "female" : 2571,
+  "white" : 4226,
+  "black" : 215,
+  "asian" : 189,
+  "hispanic" : 1580
+}, {
+  "id" : 16969,
+  "stateName" : "AR",
+  "year" : 2014,
+  "male" : 1058,
+  "female" : 1131,
+  "white" : 1763,
+  "black" : 307,
+  "asian" : 54,
+  "hispanic" : 136
+}, {
+  "id" : 16970,
+  "stateName" : "CA",
+  "year" : 2014,
+  "male" : 14156,
+  "female" : 14874,
+  "white" : 21429,
+  "black" : 1846,
+  "asian" : 4409,
+  "hispanic" : 10023
+}, {
+  "id" : 16971,
+  "stateName" : "CO",
+  "year" : 2014,
+  "male" : 1979,
+  "female" : 2030,
+  "white" : 3637,
+  "black" : 147,
+  "asian" : 112,
+  "hispanic" : 701
+}, {
+  "id" : 16972,
+  "stateName" : "CT",
+  "year" : 2014,
+  "male" : 1333,
+  "female" : 1450,
+  "white" : 2344,
+  "black" : 291,
+  "asian" : 101,
+  "hispanic" : 319
+}, {
+  "id" : 16973,
+  "stateName" : "DE",
+  "year" : 2014,
+  "male" : 337,
+  "female" : 375,
+  "white" : 510,
+  "black" : 147,
+  "asian" : 32,
+  "hispanic" : 56
+}, {
+  "id" : 16974,
+  "stateName" : "FL",
+  "year" : 2014,
+  "male" : 7335,
+  "female" : 8079,
+  "white" : 12507,
+  "black" : 2331,
+  "asian" : 374,
+  "hispanic" : 3530
+}, {
+  "id" : 16975,
+  "stateName" : "GA",
+  "year" : 2014,
+  "male" : 3458,
+  "female" : 3848,
+  "white" : 4569,
+  "black" : 2199,
+  "asian" : 388,
+  "hispanic" : 508
+}, {
+  "id" : 16976,
+  "stateName" : "HI",
+  "year" : 2014,
+  "male" : 502,
+  "female" : 533,
+  "white" : 228,
+  "black" : 19,
+  "asian" : 482,
+  "hispanic" : 64
+}, {
+  "id" : 16977,
+  "stateName" : "ID",
+  "year" : 2014,
+  "male" : 585,
+  "female" : 597,
+  "white" : 1110,
+  "black" : 10,
+  "asian" : 20,
+  "hispanic" : 153
+}, {
+  "id" : 16978,
+  "stateName" : "IL",
+  "year" : 2014,
+  "male" : 4714,
+  "female" : 5042,
+  "white" : 7648,
+  "black" : 1348,
+  "asian" : 616,
+  "hispanic" : 1316
+}, {
+  "id" : 16979,
+  "stateName" : "IN",
+  "year" : 2014,
+  "male" : 2357,
+  "female" : 2556,
+  "white" : 4365,
+  "black" : 395,
+  "asian" : 95,
+  "hispanic" : 314
+}, {
+  "id" : 16980,
+  "stateName" : "IA",
+  "year" : 2014,
+  "male" : 1154,
+  "female" : 1182,
+  "white" : 2171,
+  "black" : 69,
+  "asian" : 51,
+  "hispanic" : 81
+}, {
+  "id" : 16981,
+  "stateName" : "KS",
+  "year" : 2014,
+  "male" : 1037,
+  "female" : 1088,
+  "white" : 1853,
+  "black" : 129,
+  "asian" : 76,
+  "hispanic" : 216
+}, {
+  "id" : 16982,
+  "stateName" : "KY",
+  "year" : 2014,
+  "male" : 1597,
+  "female" : 1725,
+  "white" : 2943,
+  "black" : 271,
+  "asian" : 53,
+  "hispanic" : 113
+}, {
+  "id" : 16983,
+  "stateName" : "LA",
+  "year" : 2014,
+  "male" : 1645,
+  "female" : 1805,
+  "white" : 2250,
+  "black" : 1042,
+  "asian" : 82,
+  "hispanic" : 165
+}, {
+  "id" : 16984,
+  "stateName" : "ME",
+  "year" : 2014,
+  "male" : 512,
+  "female" : 549,
+  "white" : 1009,
+  "black" : 9,
+  "asian" : 11,
+  "hispanic" : 10
+}, {
+  "id" : 16985,
+  "stateName" : "MD",
+  "year" : 2014,
+  "male" : 2135,
+  "female" : 2407,
+  "white" : 2752,
+  "black" : 1325,
+  "asian" : 343,
+  "hispanic" : 332
+}, {
+  "id" : 16986,
+  "stateName" : "MA",
+  "year" : 2014,
+  "male" : 2504,
+  "female" : 2775,
+  "white" : 4441,
+  "black" : 408,
+  "asian" : 325,
+  "hispanic" : 462
+}, {
+  "id" : 16987,
+  "stateName" : "MI",
+  "year" : 2014,
+  "male" : 3615,
+  "female" : 3961,
+  "white" : 6164,
+  "black" : 979,
+  "asian" : 277,
+  "hispanic" : 395
+}, {
+  "id" : 16988,
+  "stateName" : "MN",
+  "year" : 2014,
+  "male" : 2007,
+  "female" : 2097,
+  "white" : 3670,
+  "black" : 196,
+  "asian" : 112,
+  "hispanic" : 183
+}, {
+  "id" : 16989,
+  "stateName" : "MS",
+  "year" : 2014,
+  "male" : 1028,
+  "female" : 1154,
+  "white" : 1352,
+  "black" : 769,
+  "asian" : 27,
+  "hispanic" : 60
+}, {
+  "id" : 16990,
+  "stateName" : "MO",
+  "year" : 2014,
+  "male" : 2172,
+  "female" : 2333,
+  "white" : 3861,
+  "black" : 485,
+  "asian" : 76,
+  "hispanic" : 88
+}, {
+  "id" : 16991,
+  "stateName" : "MT",
+  "year" : 2014,
+  "male" : 392,
+  "female" : 396,
+  "white" : 728,
+  "black" : 3,
+  "asian" : 5,
+  "hispanic" : 16
+}, {
+  "id" : 16992,
+  "stateName" : "NE",
+  "year" : 2014,
+  "male" : 688,
+  "female" : 712,
+  "white" : 1295,
+  "black" : 55,
+  "asian" : 22,
+  "hispanic" : 135
+}, {
+  "id" : 16993,
+  "stateName" : "NV",
+  "year" : 2014,
+  "male" : 1055,
+  "female" : 1073,
+  "white" : 1571,
+  "black" : 193,
+  "asian" : 181,
+  "hispanic" : 527
+}, {
+  "id" : 16994,
+  "stateName" : "NH",
+  "year" : 2014,
+  "male" : 512,
+  "female" : 535,
+  "white" : 996,
+  "black" : 15,
+  "asian" : 23,
+  "hispanic" : 23
+}, {
+  "id" : 16995,
+  "stateName" : "NJ",
+  "year" : 2014,
+  "male" : 3277,
+  "female" : 3548,
+  "white" : 5146,
+  "black" : 953,
+  "asian" : 641,
+  "hispanic" : 1229
+}, {
+  "id" : 16996,
+  "stateName" : "NM",
+  "year" : 2014,
+  "male" : 739,
+  "female" : 797,
+  "white" : 1234,
+  "black" : 40,
+  "asian" : 33,
+  "hispanic" : 601
+}, {
+  "id" : 16997,
+  "stateName" : "NY",
+  "year" : 2014,
+  "male" : 7294,
+  "female" : 7980,
+  "white" : 11147,
+  "black" : 2581,
+  "asian" : 1206,
+  "hispanic" : 2394
+}, {
+  "id" : 16998,
+  "stateName" : "NC",
+  "year" : 2014,
+  "male" : 3510,
+  "female" : 3902,
+  "white" : 5415,
+  "black" : 1572,
+  "asian" : 190,
+  "hispanic" : 602
+}, {
+  "id" : 16999,
+  "stateName" : "ND",
+  "year" : 2014,
+  "male" : 290,
+  "female" : 276,
+  "white" : 516,
+  "black" : 10,
+  "asian" : 10,
+  "hispanic" : 19
+}, {
+  "id" : 17000,
+  "stateName" : "OH",
+  "year" : 2014,
+  "male" : 4197,
+  "female" : 4575,
+  "white" : 7404,
+  "black" : 1024,
+  "asian" : 231,
+  "hispanic" : 192
+}, {
+  "id" : 17001,
+  "stateName" : "OK",
+  "year" : 2014,
+  "male" : 1394,
+  "female" : 1457,
+  "white" : 2262,
+  "black" : 192,
+  "asian" : 65,
+  "hispanic" : 267
+}, {
+  "id" : 17002,
+  "stateName" : "OR",
+  "year" : 2014,
+  "male" : 1512,
+  "female" : 1566,
+  "white" : 2768,
+  "black" : 56,
+  "asian" : 123,
+  "hispanic" : 322
+}, {
+  "id" : 17003,
+  "stateName" : "PA",
+  "year" : 2014,
+  "male" : 4779,
+  "female" : 5145,
+  "white" : 8451,
+  "black" : 1001,
+  "asian" : 295,
+  "hispanic" : 689
+}, {
+  "id" : 17004,
+  "stateName" : "RI",
+  "year" : 2014,
+  "male" : 387,
+  "female" : 432,
+  "white" : 717,
+  "black" : 55,
+  "asian" : 23,
+  "hispanic" : 75
+}, {
+  "id" : 17005,
+  "stateName" : "SC",
+  "year" : 2014,
+  "male" : 1730,
+  "female" : 1937,
+  "white" : 2622,
+  "black" : 965,
+  "asian" : 50,
+  "hispanic" : 171
+}, {
+  "id" : 17006,
+  "stateName" : "SD",
+  "year" : 2014,
+  "male" : 308,
+  "female" : 317,
+  "white" : 562,
+  "black" : 12,
+  "asian" : 4,
+  "hispanic" : 12
+}, {
+  "id" : 17007,
+  "stateName" : "TN",
+  "year" : 2014,
+  "male" : 2366,
+  "female" : 2609,
+  "white" : 4014,
+  "black" : 793,
+  "asian" : 84,
+  "hispanic" : 202
+}, {
+  "id" : 17008,
+  "stateName" : "TX",
+  "year" : 2014,
+  "male" : 9412,
+  "female" : 9941,
+  "white" : 15676,
+  "black" : 2327,
+  "asian" : 853,
+  "hispanic" : 6762
+}, {
+  "id" : 17009,
+  "stateName" : "UT",
+  "year" : 2014,
+  "male" : 1011,
+  "female" : 1016,
+  "white" : 1919,
+  "black" : 26,
+  "asian" : 37,
+  "hispanic" : 222
+}, {
+  "id" : 17010,
+  "stateName" : "VT",
+  "year" : 2014,
+  "male" : 240,
+  "female" : 253,
+  "white" : 475,
+  "black" : 4,
+  "asian" : 7,
+  "hispanic" : 4
+}, {
+  "id" : 17011,
+  "stateName" : "VA",
+  "year" : 2014,
+  "male" : 2975,
+  "female" : 3246,
+  "white" : 4145,
+  "black" : 1188,
+  "asian" : 438,
+  "hispanic" : 389
+}, {
+  "id" : 17012,
+  "stateName" : "WA",
+  "year" : 2014,
+  "male" : 2616,
+  "female" : 2717,
+  "white" : 4238,
+  "black" : 195,
+  "asian" : 451,
+  "hispanic" : 635
+}, {
+  "id" : 17013,
+  "stateName" : "WV",
+  "year" : 2014,
+  "male" : 705,
+  "female" : 744,
+  "white" : 1376,
+  "black" : 41,
+  "asian" : 10,
+  "hispanic" : 18
+}, {
+  "id" : 17014,
+  "stateName" : "WI",
+  "year" : 2014,
+  "male" : 2136,
+  "female" : 2220,
+  "white" : 3933,
+  "black" : 230,
+  "asian" : 106,
+  "hispanic" : 248
+}, {
+  "id" : 17015,
+  "stateName" : "WY",
+  "year" : 2014,
+  "male" : 223,
+  "female" : 217,
+  "white" : 407,
+  "black" : 11,
+  "asian" : 3,
+  "hispanic" : 29
+} ]

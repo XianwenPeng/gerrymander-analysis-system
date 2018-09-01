@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html   xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.thymeleaf.org"
+        xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+<meta charset="UTF-8">
+<title>Title of Fragment</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="../css/animation.css">
+        <script src="../js/map.js"></script>
+    		<script src="../js/animation.js"></script>
+    		<link rel="stylesheet" href="../css/animation.css">
+    </head>	
+<body>
+	<div th:fragment="viewTestFrag">
+		<h1>View Test Results</h1>
+		<p>Year: <span th:text="${viewTestYear}"></span></p>
+	 	<table class="userListTable">
+                <thead>
+                <tr>
+                    <!-- <th>ID&emsp;&emsp;&nbsp;</th> -->
+                    <th>State&emsp;&emsp;&nbsp;</th>
+                    <th>Lopsided Wins&emsp;&emsp;&nbsp;</th>
+                    <th>Consistent Advantage&emsp;&emsp;&nbsp;</th>
+                    <th>Excess Seats&emsp;&emsp;&nbsp;</th>
+                    <th>Efficiency Gap&emsp;&emsp;&nbsp;</th>
+                    <th>Efficiency Explain&emsp;&emsp;&nbsp;</th>
+                   <!--  <th>Last Name&emsp;&emsp;&nbsp;</th>
+                    <th>Role&emsp;&emsp;&nbsp;</th> -->
+                    <!-- <th>Cost</th>
+                    <th>Mins to prepare</th>
+                    <th>Action</ -->
+                </tr>
+                </thead>
+                	        <tbody>
+			    <tr th:each="test: ${testResultList}">
+			        <!-- <td th:text="${user.id}" /> -->
+			        <td th:text="${test.lopsidedWins.state.stateName}" />
+			        <td th:text="${test.lopsidedWins.result}" />
+			        <td th:text="${test.consistentAdvantage.result}">
+			        <td th:text="${test.excessSeats.result}">
+			        <td th:text="${test.efficiencyGap.result}">
+			        <td th:text="${test.efficiencyGap.efficiencyExplain}">
+			        <!-- <td th:text="${test.lastName}" />
+			        <td th:text="${test.role}" /> -->
+			    </tr>
+				</tbody>
+			</table>
+			
+		</div>
+</body>
+</html>

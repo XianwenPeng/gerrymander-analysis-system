@@ -1,0 +1,1207 @@
+[ {
+  "year" : 2016,
+  "demoData" : [ {
+    "stateName" : "AK",
+    "data" : {
+      "White" : 346,
+      "RepublicanSeats" : 1,
+      "Male" : 267,
+      "Female" : 251,
+      "DemocraticSeats" : 0,
+      "Black" : 17,
+      "Asian" : 27,
+      "Hispanic" : 24
+    }
+  }, {
+    "stateName" : "AL",
+    "data" : {
+      "White" : 2633,
+      "RepublicanSeats" : 6,
+      "Male" : 1761,
+      "Female" : 1955,
+      "DemocraticSeats" : 1,
+      "Black" : 962,
+      "Asian" : 27,
+      "Hispanic" : 117
+    }
+  }, {
+    "stateName" : "AR",
+    "data" : {
+      "White" : 1689,
+      "RepublicanSeats" : 4,
+      "Male" : 1055,
+      "Female" : 1161,
+      "DemocraticSeats" : 0,
+      "Black" : 321,
+      "Asian" : 36,
+      "Hispanic" : 135
+    }
+  }, {
+    "stateName" : "AZ",
+    "data" : {
+      "White" : 2940,
+      "RepublicanSeats" : 5,
+      "Male" : 2525,
+      "Female" : 2671,
+      "DemocraticSeats" : 4,
+      "Black" : 252,
+      "Asian" : 169,
+      "Hispanic" : 1613
+    }
+  }, {
+    "stateName" : "CA",
+    "data" : {
+      "White" : 21592,
+      "RepublicanSeats" : 7,
+      "Male" : 14604,
+      "Female" : 15289,
+      "DemocraticSeats" : 46,
+      "Black" : 1849,
+      "Asian" : 4838,
+      "Hispanic" : 10221
+    }
+  }, {
+    "stateName" : "CO",
+    "data" : {
+      "White" : 3743,
+      "RepublicanSeats" : 3,
+      "Male" : 2102,
+      "Female" : 2140,
+      "DemocraticSeats" : 4,
+      "Black" : 185,
+      "Asian" : 170,
+      "Hispanic" : 633
+    }
+  }, {
+    "stateName" : "CT",
+    "data" : {
+      "White" : 2258,
+      "RepublicanSeats" : 0,
+      "Male" : 1321,
+      "Female" : 1438,
+      "DemocraticSeats" : 5,
+      "Black" : 297,
+      "Asian" : 143,
+      "Hispanic" : 417
+    }
+  }, {
+    "stateName" : "DE",
+    "data" : {
+      "White" : 527,
+      "RepublicanSeats" : 0,
+      "Male" : 342,
+      "Female" : 387,
+      "DemocraticSeats" : 1,
+      "Black" : 148,
+      "Asian" : 44,
+      "Hispanic" : 66
+    }
+  }, {
+    "stateName" : "FL",
+    "data" : {
+      "White" : 13097,
+      "RepublicanSeats" : 14,
+      "Male" : 7736,
+      "Female" : 8466,
+      "DemocraticSeats" : 13,
+      "Black" : 2434,
+      "Asian" : 483,
+      "Hispanic" : 4010
+    }
+  }, {
+    "stateName" : "GA",
+    "data" : {
+      "White" : 4798,
+      "RepublicanSeats" : 10,
+      "Male" : 3623,
+      "Female" : 4003,
+      "DemocraticSeats" : 4,
+      "Black" : 2325,
+      "Asian" : 365,
+      "Hispanic" : 680
+    }
+  }, {
+    "stateName" : "HI",
+    "data" : {
+      "White" : 225,
+      "RepublicanSeats" : 0,
+      "Male" : 519,
+      "Female" : 545,
+      "DemocraticSeats" : 2,
+      "Black" : 24,
+      "Asian" : 492,
+      "Hispanic" : 78
+    }
+  }, {
+    "stateName" : "IA",
+    "data" : {
+      "White" : 2201,
+      "RepublicanSeats" : 4,
+      "Male" : 1172,
+      "Female" : 1221,
+      "DemocraticSeats" : 0,
+      "Black" : 73,
+      "Asian" : 66,
+      "Hispanic" : 97
+    }
+  }, {
+    "stateName" : "ID",
+    "data" : {
+      "White" : 1151,
+      "RepublicanSeats" : 2,
+      "Male" : 607,
+      "Female" : 618,
+      "DemocraticSeats" : 0,
+      "Black" : 1002,
+      "Asian" : 6,
+      "Hispanic" : 27
+    }
+  }, {
+    "stateName" : "IL",
+    "data" : {
+      "White" : 7647,
+      "RepublicanSeats" : 7,
+      "Male" : 4692,
+      "Female" : 5031,
+      "DemocraticSeats" : 11,
+      "Black" : 1358,
+      "Asian" : 542,
+      "Hispanic" : 1490
+    }
+  }, {
+    "stateName" : "IN",
+    "data" : {
+      "White" : 4309,
+      "RepublicanSeats" : 7,
+      "Male" : 2426,
+      "Female" : 2562,
+      "DemocraticSeats" : 2,
+      "Black" : 473,
+      "Asian" : 109,
+      "Hispanic" : 224
+    }
+  }, {
+    "stateName" : "KS",
+    "data" : {
+      "White" : 1883,
+      "RepublicanSeats" : 3,
+      "Male" : 1048,
+      "Female" : 1094,
+      "DemocraticSeats" : 1,
+      "Black" : 121,
+      "Asian" : 59,
+      "Hispanic" : 217
+    }
+  }, {
+    "stateName" : "KY",
+    "data" : {
+      "White" : 3014,
+      "RepublicanSeats" : 5,
+      "Male" : 1614,
+      "Female" : 1734,
+      "DemocraticSeats" : 1,
+      "Black" : 250,
+      "Asian" : 28,
+      "Hispanic" : 138
+    }
+  }, {
+    "stateName" : "LA",
+    "data" : {
+      "White" : 2251,
+      "RepublicanSeats" : 5,
+      "Male" : 1650,
+      "Female" : 1813,
+      "DemocraticSeats" : 1,
+      "Black" : 1062,
+      "Asian" : 101,
+      "Hispanic" : 174
+    }
+  }, {
+    "stateName" : "MA",
+    "data" : {
+      "White" : 4464,
+      "RepublicanSeats" : 0,
+      "Male" : 2585,
+      "Female" : 2788,
+      "DemocraticSeats" : 9,
+      "Black" : 438,
+      "Asian" : 353,
+      "Hispanic" : 500
+    }
+  }, {
+    "stateName" : "MD",
+    "data" : {
+      "White" : 2784,
+      "RepublicanSeats" : 1,
+      "Male" : 2203,
+      "Female" : 2420,
+      "DemocraticSeats" : 7,
+      "Black" : 1386,
+      "Asian" : 349,
+      "Hispanic" : 450
+    }
+  }, {
+    "stateName" : "ME",
+    "data" : {
+      "White" : 1001,
+      "RepublicanSeats" : 1,
+      "Male" : 510,
+      "Female" : 548,
+      "DemocraticSeats" : 1,
+      "Black" : 13,
+      "Asian" : 11,
+      "Hispanic" : 20
+    }
+  }, {
+    "stateName" : "MI",
+    "data" : {
+      "White" : 6264,
+      "RepublicanSeats" : 9,
+      "Male" : 3650,
+      "Female" : 3974,
+      "DemocraticSeats" : 5,
+      "Black" : 1039,
+      "Asian" : 182,
+      "Hispanic" : 288
+    }
+  }, {
+    "stateName" : "MN",
+    "data" : {
+      "White" : 3614,
+      "RepublicanSeats" : 5,
+      "Male" : 2063,
+      "Female" : 2127,
+      "DemocraticSeats" : 3,
+      "Black" : 193,
+      "Asian" : 172,
+      "Hispanic" : 255
+    }
+  }, {
+    "stateName" : "MO",
+    "data" : {
+      "White" : 3957,
+      "RepublicanSeats" : 6,
+      "Male" : 2231,
+      "Female" : 2395,
+      "DemocraticSeats" : 2,
+      "Black" : 491,
+      "Asian" : 77,
+      "Hispanic" : 160
+    }
+  }, {
+    "stateName" : "MS",
+    "data" : {
+      "White" : 1377,
+      "RepublicanSeats" : 3,
+      "Male" : 1026,
+      "Female" : 1177,
+      "DemocraticSeats" : 1,
+      "Black" : 782,
+      "Asian" : 17,
+      "Hispanic" : 41
+    }
+  }, {
+    "stateName" : "MT",
+    "data" : {
+      "White" : 738,
+      "RepublicanSeats" : 1,
+      "Male" : 399,
+      "Female" : 399,
+      "DemocraticSeats" : 0,
+      "Black" : 5,
+      "Asian" : 7,
+      "Hispanic" : 20
+    }
+  }, {
+    "stateName" : "NC",
+    "data" : {
+      "White" : 5480,
+      "RepublicanSeats" : 10,
+      "Male" : 3596,
+      "Female" : 4034,
+      "DemocraticSeats" : 3,
+      "Black" : 1625,
+      "Asian" : 312,
+      "Hispanic" : 804
+    }
+  }, {
+    "stateName" : "ND",
+    "data" : {
+      "White" : 520,
+      "RepublicanSeats" : 1,
+      "Male" : 298,
+      "Female" : 285,
+      "DemocraticSeats" : 0,
+      "Black" : 15,
+      "Asian" : 11,
+      "Hispanic" : 9
+    }
+  }, {
+    "stateName" : "NE",
+    "data" : {
+      "White" : 1253,
+      "RepublicanSeats" : 3,
+      "Male" : 696,
+      "Female" : 711,
+      "DemocraticSeats" : 0,
+      "Black" : 56,
+      "Asian" : 35,
+      "Hispanic" : 109
+    }
+  }, {
+    "stateName" : "NH",
+    "data" : {
+      "White" : 990,
+      "RepublicanSeats" : 1,
+      "Male" : 509,
+      "Female" : 535,
+      "DemocraticSeats" : 1,
+      "Black" : 11,
+      "Asian" : 27,
+      "Hispanic" : 19
+    }
+  }, {
+    "stateName" : "NJ",
+    "data" : {
+      "White" : 5237,
+      "RepublicanSeats" : 5,
+      "Male" : 3282,
+      "Female" : 3580,
+      "DemocraticSeats" : 7,
+      "Black" : 964,
+      "Asian" : 579,
+      "Hispanic" : 1379
+    }
+  }, {
+    "stateName" : "NM",
+    "data" : {
+      "White" : 1183,
+      "RepublicanSeats" : 1,
+      "Male" : 749,
+      "Female" : 798,
+      "DemocraticSeats" : 2,
+      "Black" : 42,
+      "Asian" : 32,
+      "Hispanic" : 705
+    }
+  }, {
+    "stateName" : "NV",
+    "data" : {
+      "White" : 1730,
+      "RepublicanSeats" : 2,
+      "Male" : 1098,
+      "Female" : 1136,
+      "DemocraticSeats" : 2,
+      "Black" : 182,
+      "Asian" : 198,
+      "Hispanic" : 517
+    }
+  }, {
+    "stateName" : "NY",
+    "data" : {
+      "White" : 11101,
+      "RepublicanSeats" : 9,
+      "Male" : 7389,
+      "Female" : 8116,
+      "DemocraticSeats" : 18,
+      "Black" : 2610,
+      "Asian" : 1547,
+      "Hispanic" : 2346
+    }
+  }, {
+    "stateName" : "OH",
+    "data" : {
+      "White" : 7340,
+      "RepublicanSeats" : 12,
+      "Male" : 4219,
+      "Female" : 4593,
+      "DemocraticSeats" : 4,
+      "Black" : 1031,
+      "Asian" : 250,
+      "Hispanic" : 277
+    }
+  }, {
+    "stateName" : "OK",
+    "data" : {
+      "White" : 2289,
+      "RepublicanSeats" : 5,
+      "Male" : 1417,
+      "Female" : 1507,
+      "DemocraticSeats" : 0,
+      "Black" : 198,
+      "Asian" : 81,
+      "Hispanic" : 280
+    }
+  }, {
+    "stateName" : "OR",
+    "data" : {
+      "White" : 2808,
+      "RepublicanSeats" : 1,
+      "Male" : 1567,
+      "Female" : 1618,
+      "DemocraticSeats" : 4,
+      "Black" : 57,
+      "Asian" : 145,
+      "Hispanic" : 371
+    }
+  }, {
+    "stateName" : "PA",
+    "data" : {
+      "White" : 8435,
+      "RepublicanSeats" : 12,
+      "Male" : 4808,
+      "Female" : 5172,
+      "DemocraticSeats" : 6,
+      "Black" : 1071,
+      "Asian" : 311,
+      "Hispanic" : 544
+    }
+  }, {
+    "stateName" : "RI",
+    "data" : {
+      "White" : 699,
+      "RepublicanSeats" : 0,
+      "Male" : 404,
+      "Female" : 432,
+      "DemocraticSeats" : 2,
+      "Black" : 63,
+      "Asian" : 37,
+      "Hispanic" : 132
+    }
+  }, {
+    "stateName" : "SC",
+    "data" : {
+      "White" : 2621,
+      "RepublicanSeats" : 6,
+      "Male" : 1774,
+      "Female" : 1959,
+      "DemocraticSeats" : 1,
+      "Black" : 975,
+      "Asian" : 62,
+      "Hispanic" : 175
+    }
+  }, {
+    "stateName" : "SD",
+    "data" : {
+      "White" : 560,
+      "RepublicanSeats" : 1,
+      "Male" : 314,
+      "Female" : 318,
+      "DemocraticSeats" : 0,
+      "Black" : 11,
+      "Asian" : 9,
+      "Hispanic" : 21
+    }
+  }, {
+    "stateName" : "TN",
+    "data" : {
+      "White" : 4014,
+      "RepublicanSeats" : 7,
+      "Male" : 2418,
+      "Female" : 2639,
+      "DemocraticSeats" : 2,
+      "Black" : 814,
+      "Asian" : 132,
+      "Hispanic" : 221
+    }
+  }, {
+    "stateName" : "TX",
+    "data" : {
+      "White" : 16095,
+      "RepublicanSeats" : 22,
+      "Male" : 9775,
+      "Female" : 10397,
+      "DemocraticSeats" : 14,
+      "Black" : 2458,
+      "Asian" : 1110,
+      "Hispanic" : 6923
+    }
+  }, {
+    "stateName" : "UT",
+    "data" : {
+      "White" : 1955,
+      "RepublicanSeats" : 4,
+      "Male" : 1043,
+      "Female" : 1053,
+      "DemocraticSeats" : 0,
+      "Black" : 20,
+      "Asian" : 44,
+      "Hispanic" : 245
+    }
+  }, {
+    "stateName" : "VA",
+    "data" : {
+      "White" : 4459,
+      "RepublicanSeats" : 7,
+      "Male" : 3026,
+      "Female" : 3317,
+      "DemocraticSeats" : 4,
+      "Black" : 1189,
+      "Asian" : 462,
+      "Hispanic" : 606
+    }
+  }, {
+    "stateName" : "VT",
+    "data" : {
+      "White" : 468,
+      "RepublicanSeats" : 0,
+      "Male" : 246,
+      "Female" : 254,
+      "DemocraticSeats" : 1,
+      "Black" : 5,
+      "Asian" : 13,
+      "Hispanic" : 5
+    }
+  }, {
+    "stateName" : "WA",
+    "data" : {
+      "White" : 4628,
+      "RepublicanSeats" : 3,
+      "Male" : 2765,
+      "Female" : 2827,
+      "DemocraticSeats" : 7,
+      "Black" : 201,
+      "Asian" : 426,
+      "Hispanic" : 656
+    }
+  }, {
+    "stateName" : "WI",
+    "data" : {
+      "White" : 4079,
+      "RepublicanSeats" : 6,
+      "Male" : 2193,
+      "Female" : 2272,
+      "DemocraticSeats" : 2,
+      "Black" : 205,
+      "Asian" : 118,
+      "Hispanic" : 329
+    }
+  }, {
+    "stateName" : "WV",
+    "data" : {
+      "White" : 1350,
+      "RepublicanSeats" : 3,
+      "Male" : 695,
+      "Female" : 739,
+      "DemocraticSeats" : 0,
+      "Black" : 48,
+      "Asian" : 10,
+      "Hispanic" : 13
+    }
+  }, {
+    "stateName" : "WY",
+    "data" : {
+      "White" : 405,
+      "RepublicanSeats" : 1,
+      "Male" : 223,
+      "Female" : 213,
+      "DemocraticSeats" : 0,
+      "Black" : 5,
+      "Asian" : 6,
+      "Hispanic" : 32
+    }
+  } ]
+}, {
+  "year" : 2014,
+  "demoData" : [ {
+    "stateName" : "AK",
+    "data" : {
+      "White" : 346,
+      "RepublicanSeats" : 1,
+      "Male" : 267,
+      "Female" : 251,
+      "DemocraticSeats" : 0,
+      "Black" : 17,
+      "Asian" : 27,
+      "Hispanic" : 24
+    }
+  }, {
+    "stateName" : "AL",
+    "data" : {
+      "White" : 2633,
+      "RepublicanSeats" : 6,
+      "Male" : 1761,
+      "Female" : 1955,
+      "DemocraticSeats" : 1,
+      "Black" : 962,
+      "Asian" : 27,
+      "Hispanic" : 117
+    }
+  }, {
+    "stateName" : "AR",
+    "data" : {
+      "White" : 1689,
+      "RepublicanSeats" : 4,
+      "Male" : 1055,
+      "Female" : 1161,
+      "DemocraticSeats" : 0,
+      "Black" : 321,
+      "Asian" : 36,
+      "Hispanic" : 135
+    }
+  }, {
+    "stateName" : "AZ",
+    "data" : {
+      "White" : 2940,
+      "RepublicanSeats" : 5,
+      "Male" : 2525,
+      "Female" : 2671,
+      "DemocraticSeats" : 4,
+      "Black" : 252,
+      "Asian" : 169,
+      "Hispanic" : 1613
+    }
+  }, {
+    "stateName" : "CA",
+    "data" : {
+      "White" : 21592,
+      "RepublicanSeats" : 7,
+      "Male" : 14604,
+      "Female" : 15289,
+      "DemocraticSeats" : 46,
+      "Black" : 1849,
+      "Asian" : 4838,
+      "Hispanic" : 10221
+    }
+  }, {
+    "stateName" : "CO",
+    "data" : {
+      "White" : 3743,
+      "RepublicanSeats" : 3,
+      "Male" : 2102,
+      "Female" : 2140,
+      "DemocraticSeats" : 4,
+      "Black" : 185,
+      "Asian" : 170,
+      "Hispanic" : 633
+    }
+  }, {
+    "stateName" : "CT",
+    "data" : {
+      "White" : 2258,
+      "RepublicanSeats" : 0,
+      "Male" : 1321,
+      "Female" : 1438,
+      "DemocraticSeats" : 5,
+      "Black" : 297,
+      "Asian" : 143,
+      "Hispanic" : 417
+    }
+  }, {
+    "stateName" : "DE",
+    "data" : {
+      "White" : 527,
+      "RepublicanSeats" : 0,
+      "Male" : 342,
+      "Female" : 387,
+      "DemocraticSeats" : 1,
+      "Black" : 148,
+      "Asian" : 44,
+      "Hispanic" : 66
+    }
+  }, {
+    "stateName" : "FL",
+    "data" : {
+      "White" : 13097,
+      "RepublicanSeats" : 14,
+      "Male" : 7736,
+      "Female" : 8466,
+      "DemocraticSeats" : 13,
+      "Black" : 2434,
+      "Asian" : 483,
+      "Hispanic" : 4010
+    }
+  }, {
+    "stateName" : "GA",
+    "data" : {
+      "White" : 4798,
+      "RepublicanSeats" : 10,
+      "Male" : 3623,
+      "Female" : 4003,
+      "DemocraticSeats" : 4,
+      "Black" : 2325,
+      "Asian" : 365,
+      "Hispanic" : 680
+    }
+  }, {
+    "stateName" : "HI",
+    "data" : {
+      "White" : 225,
+      "RepublicanSeats" : 0,
+      "Male" : 519,
+      "Female" : 545,
+      "DemocraticSeats" : 2,
+      "Black" : 24,
+      "Asian" : 492,
+      "Hispanic" : 78
+    }
+  }, {
+    "stateName" : "IA",
+    "data" : {
+      "White" : 2201,
+      "RepublicanSeats" : 4,
+      "Male" : 1172,
+      "Female" : 1221,
+      "DemocraticSeats" : 0,
+      "Black" : 73,
+      "Asian" : 66,
+      "Hispanic" : 97
+    }
+  }, {
+    "stateName" : "ID",
+    "data" : {
+      "White" : 1151,
+      "RepublicanSeats" : 2,
+      "Male" : 607,
+      "Female" : 618,
+      "DemocraticSeats" : 0,
+      "Black" : 1002,
+      "Asian" : 6,
+      "Hispanic" : 27
+    }
+  }, {
+    "stateName" : "IL",
+    "data" : {
+      "White" : 7647,
+      "RepublicanSeats" : 7,
+      "Male" : 4692,
+      "Female" : 5031,
+      "DemocraticSeats" : 11,
+      "Black" : 1358,
+      "Asian" : 542,
+      "Hispanic" : 1490
+    }
+  }, {
+    "stateName" : "IN",
+    "data" : {
+      "White" : 4309,
+      "RepublicanSeats" : 7,
+      "Male" : 2426,
+      "Female" : 2562,
+      "DemocraticSeats" : 2,
+      "Black" : 473,
+      "Asian" : 109,
+      "Hispanic" : 224
+    }
+  }, {
+    "stateName" : "KS",
+    "data" : {
+      "White" : 1883,
+      "RepublicanSeats" : 3,
+      "Male" : 1048,
+      "Female" : 1094,
+      "DemocraticSeats" : 1,
+      "Black" : 121,
+      "Asian" : 59,
+      "Hispanic" : 217
+    }
+  }, {
+    "stateName" : "KY",
+    "data" : {
+      "White" : 3014,
+      "RepublicanSeats" : 5,
+      "Male" : 1614,
+      "Female" : 1734,
+      "DemocraticSeats" : 1,
+      "Black" : 250,
+      "Asian" : 28,
+      "Hispanic" : 138
+    }
+  }, {
+    "stateName" : "LA",
+    "data" : {
+      "White" : 2251,
+      "RepublicanSeats" : 5,
+      "Male" : 1650,
+      "Female" : 1813,
+      "DemocraticSeats" : 1,
+      "Black" : 1062,
+      "Asian" : 101,
+      "Hispanic" : 174
+    }
+  }, {
+    "stateName" : "MA",
+    "data" : {
+      "White" : 4464,
+      "RepublicanSeats" : 0,
+      "Male" : 2585,
+      "Female" : 2788,
+      "DemocraticSeats" : 9,
+      "Black" : 438,
+      "Asian" : 353,
+      "Hispanic" : 500
+    }
+  }, {
+    "stateName" : "MD",
+    "data" : {
+      "White" : 2784,
+      "RepublicanSeats" : 1,
+      "Male" : 2203,
+      "Female" : 2420,
+      "DemocraticSeats" : 7,
+      "Black" : 1386,
+      "Asian" : 349,
+      "Hispanic" : 450
+    }
+  }, {
+    "stateName" : "ME",
+    "data" : {
+      "White" : 1001,
+      "RepublicanSeats" : 1,
+      "Male" : 510,
+      "Female" : 548,
+      "DemocraticSeats" : 1,
+      "Black" : 13,
+      "Asian" : 11,
+      "Hispanic" : 20
+    }
+  }, {
+    "stateName" : "MI",
+    "data" : {
+      "White" : 6264,
+      "RepublicanSeats" : 9,
+      "Male" : 3650,
+      "Female" : 3974,
+      "DemocraticSeats" : 5,
+      "Black" : 1039,
+      "Asian" : 182,
+      "Hispanic" : 288
+    }
+  }, {
+    "stateName" : "MN",
+    "data" : {
+      "White" : 3614,
+      "RepublicanSeats" : 5,
+      "Male" : 2063,
+      "Female" : 2127,
+      "DemocraticSeats" : 3,
+      "Black" : 193,
+      "Asian" : 172,
+      "Hispanic" : 255
+    }
+  }, {
+    "stateName" : "MO",
+    "data" : {
+      "White" : 3957,
+      "RepublicanSeats" : 6,
+      "Male" : 2231,
+      "Female" : 2395,
+      "DemocraticSeats" : 2,
+      "Black" : 491,
+      "Asian" : 77,
+      "Hispanic" : 160
+    }
+  }, {
+    "stateName" : "MS",
+    "data" : {
+      "White" : 1377,
+      "RepublicanSeats" : 3,
+      "Male" : 1026,
+      "Female" : 1177,
+      "DemocraticSeats" : 1,
+      "Black" : 782,
+      "Asian" : 17,
+      "Hispanic" : 41
+    }
+  }, {
+    "stateName" : "MT",
+    "data" : {
+      "White" : 738,
+      "RepublicanSeats" : 1,
+      "Male" : 399,
+      "Female" : 399,
+      "DemocraticSeats" : 0,
+      "Black" : 5,
+      "Asian" : 7,
+      "Hispanic" : 20
+    }
+  }, {
+    "stateName" : "NC",
+    "data" : {
+      "White" : 5480,
+      "RepublicanSeats" : 10,
+      "Male" : 3596,
+      "Female" : 4034,
+      "DemocraticSeats" : 3,
+      "Black" : 1625,
+      "Asian" : 312,
+      "Hispanic" : 804
+    }
+  }, {
+    "stateName" : "ND",
+    "data" : {
+      "White" : 520,
+      "RepublicanSeats" : 1,
+      "Male" : 298,
+      "Female" : 285,
+      "DemocraticSeats" : 0,
+      "Black" : 15,
+      "Asian" : 11,
+      "Hispanic" : 9
+    }
+  }, {
+    "stateName" : "NE",
+    "data" : {
+      "White" : 1253,
+      "RepublicanSeats" : 3,
+      "Male" : 696,
+      "Female" : 711,
+      "DemocraticSeats" : 0,
+      "Black" : 56,
+      "Asian" : 35,
+      "Hispanic" : 109
+    }
+  }, {
+    "stateName" : "NH",
+    "data" : {
+      "White" : 990,
+      "RepublicanSeats" : 1,
+      "Male" : 509,
+      "Female" : 535,
+      "DemocraticSeats" : 1,
+      "Black" : 11,
+      "Asian" : 27,
+      "Hispanic" : 19
+    }
+  }, {
+    "stateName" : "NJ",
+    "data" : {
+      "White" : 5237,
+      "RepublicanSeats" : 5,
+      "Male" : 3282,
+      "Female" : 3580,
+      "DemocraticSeats" : 7,
+      "Black" : 964,
+      "Asian" : 579,
+      "Hispanic" : 1379
+    }
+  }, {
+    "stateName" : "NM",
+    "data" : {
+      "White" : 1183,
+      "RepublicanSeats" : 1,
+      "Male" : 749,
+      "Female" : 798,
+      "DemocraticSeats" : 2,
+      "Black" : 42,
+      "Asian" : 32,
+      "Hispanic" : 705
+    }
+  }, {
+    "stateName" : "NV",
+    "data" : {
+      "White" : 1730,
+      "RepublicanSeats" : 2,
+      "Male" : 1098,
+      "Female" : 1136,
+      "DemocraticSeats" : 2,
+      "Black" : 182,
+      "Asian" : 198,
+      "Hispanic" : 517
+    }
+  }, {
+    "stateName" : "NY",
+    "data" : {
+      "White" : 11101,
+      "RepublicanSeats" : 9,
+      "Male" : 7389,
+      "Female" : 8116,
+      "DemocraticSeats" : 18,
+      "Black" : 2610,
+      "Asian" : 1547,
+      "Hispanic" : 2346
+    }
+  }, {
+    "stateName" : "OH",
+    "data" : {
+      "White" : 7340,
+      "RepublicanSeats" : 12,
+      "Male" : 4219,
+      "Female" : 4593,
+      "DemocraticSeats" : 4,
+      "Black" : 1031,
+      "Asian" : 250,
+      "Hispanic" : 277
+    }
+  }, {
+    "stateName" : "OK",
+    "data" : {
+      "White" : 2289,
+      "RepublicanSeats" : 5,
+      "Male" : 1417,
+      "Female" : 1507,
+      "DemocraticSeats" : 0,
+      "Black" : 198,
+      "Asian" : 81,
+      "Hispanic" : 280
+    }
+  }, {
+    "stateName" : "OR",
+    "data" : {
+      "White" : 2808,
+      "RepublicanSeats" : 1,
+      "Male" : 1567,
+      "Female" : 1618,
+      "DemocraticSeats" : 4,
+      "Black" : 57,
+      "Asian" : 145,
+      "Hispanic" : 371
+    }
+  }, {
+    "stateName" : "PA",
+    "data" : {
+      "White" : 8435,
+      "RepublicanSeats" : 12,
+      "Male" : 4808,
+      "Female" : 5172,
+      "DemocraticSeats" : 6,
+      "Black" : 1071,
+      "Asian" : 311,
+      "Hispanic" : 544
+    }
+  }, {
+    "stateName" : "RI",
+    "data" : {
+      "White" : 699,
+      "RepublicanSeats" : 0,
+      "Male" : 404,
+      "Female" : 432,
+      "DemocraticSeats" : 2,
+      "Black" : 63,
+      "Asian" : 37,
+      "Hispanic" : 132
+    }
+  }, {
+    "stateName" : "SC",
+    "data" : {
+      "White" : 2621,
+      "RepublicanSeats" : 6,
+      "Male" : 1774,
+      "Female" : 1959,
+      "DemocraticSeats" : 1,
+      "Black" : 975,
+      "Asian" : 62,
+      "Hispanic" : 175
+    }
+  }, {
+    "stateName" : "SD",
+    "data" : {
+      "White" : 560,
+      "RepublicanSeats" : 1,
+      "Male" : 314,
+      "Female" : 318,
+      "DemocraticSeats" : 0,
+      "Black" : 11,
+      "Asian" : 9,
+      "Hispanic" : 21
+    }
+  }, {
+    "stateName" : "TN",
+    "data" : {
+      "White" : 4014,
+      "RepublicanSeats" : 7,
+      "Male" : 2418,
+      "Female" : 2639,
+      "DemocraticSeats" : 2,
+      "Black" : 814,
+      "Asian" : 132,
+      "Hispanic" : 221
+    }
+  }, {
+    "stateName" : "TX",
+    "data" : {
+      "White" : 16095,
+      "RepublicanSeats" : 22,
+      "Male" : 9775,
+      "Female" : 10397,
+      "DemocraticSeats" : 14,
+      "Black" : 2458,
+      "Asian" : 1110,
+      "Hispanic" : 6923
+    }
+  }, {
+    "stateName" : "UT",
+    "data" : {
+      "White" : 1955,
+      "RepublicanSeats" : 4,
+      "Male" : 1043,
+      "Female" : 1053,
+      "DemocraticSeats" : 0,
+      "Black" : 20,
+      "Asian" : 44,
+      "Hispanic" : 245
+    }
+  }, {
+    "stateName" : "VA",
+    "data" : {
+      "White" : 4459,
+      "RepublicanSeats" : 7,
+      "Male" : 3026,
+      "Female" : 3317,
+      "DemocraticSeats" : 4,
+      "Black" : 1189,
+      "Asian" : 462,
+      "Hispanic" : 606
+    }
+  }, {
+    "stateName" : "VT",
+    "data" : {
+      "White" : 468,
+      "RepublicanSeats" : 0,
+      "Male" : 246,
+      "Female" : 254,
+      "DemocraticSeats" : 1,
+      "Black" : 5,
+      "Asian" : 13,
+      "Hispanic" : 5
+    }
+  }, {
+    "stateName" : "WA",
+    "data" : {
+      "White" : 4628,
+      "RepublicanSeats" : 3,
+      "Male" : 2765,
+      "Female" : 2827,
+      "DemocraticSeats" : 7,
+      "Black" : 201,
+      "Asian" : 426,
+      "Hispanic" : 656
+    }
+  }, {
+    "stateName" : "WI",
+    "data" : {
+      "White" : 4079,
+      "RepublicanSeats" : 6,
+      "Male" : 2193,
+      "Female" : 2272,
+      "DemocraticSeats" : 2,
+      "Black" : 205,
+      "Asian" : 118,
+      "Hispanic" : 329
+    }
+  }, {
+    "stateName" : "WV",
+    "data" : {
+      "White" : 1350,
+      "RepublicanSeats" : 3,
+      "Male" : 695,
+      "Female" : 739,
+      "DemocraticSeats" : 0,
+      "Black" : 48,
+      "Asian" : 10,
+      "Hispanic" : 13
+    }
+  }, {
+    "stateName" : "WY",
+    "data" : {
+      "White" : 405,
+      "RepublicanSeats" : 1,
+      "Male" : 223,
+      "Female" : 213,
+      "DemocraticSeats" : 0,
+      "Black" : 5,
+      "Asian" : 6,
+      "Hispanic" : 32
+    }
+  } ]
+} ]

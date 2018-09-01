@@ -3,20 +3,31 @@
 <head>
     <title>Getting Started: Handling Form Submission</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script src="../js/animation.js"></script>
+	<link rel="stylesheet" href="/css/animation.css">
+    <link rel="stylesheet" href="/css/pieCSS.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
 </head>
+<style>
+.axis path,
+.axis line{
+	fill:none;
+	stroke:black;
+	shape-rendering:crispEdges;
+}
+.axis text{
+	font-family: sans-serif;
+	font-size: 11px;
+}
+</style>
 <body>
-	<h1>Gerrymander Test Result</h1>
-	<form action="#" th:action="@{/gerrymander}" th:object="${district}" method="post">
-		<p th:text="'District Id: ' + ${district.districtId}" />
-		<p th:text="'State Name: ' + ${district.stateName}" />
-		<p th:text="'Year: ' + ${district.year}" />
-		<p th:text="'Area: ' + ${district.area}" />
-		<p th:text="'Population: ' + ${district.population}" />
-	    
-    </form>
-    <form class = "login-register-group" action="gerrymander.html">
-		<input  class="btn btn-primary block full-width m-b" type="submit" value="Gerrymander Test" />
-	  </form>
-    
+	<header><div th:replace="fragments/header :: header">Header</div></header>
+	<div th:replace="fragments/measurePane :: measurePane">Header</div>
+	
+	<div class = "managePane">
+		<div th:replace="fragments/allResultFrag :: allResultFrag">Header</div>
+	</div>
+	  	<!-- // <script src="d3/d3.js" charset="utf-8"></script> -->
+   
 </body>
 </html>

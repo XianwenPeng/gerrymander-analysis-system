@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html   xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.thymeleaf.org"
+        xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+    <head>
+        <title>Title of Fragment</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="../css/map.css">
+        <link rel="stylesheet" href="../css/animation.css">
+        <script src="../js/map.js"></script>
+    		<script src="../js/animation.js"></script>
+    		
+    </head>
+<body>
+	<div th:fragment = "demoPane" class = "measureLeftNav">
+		<form action="#" th:action="@{/gerrymander/demoData}" th:object="${selectBar}" method="post">
+		<div class = "leftNavBar">
+				<div class = "leftNavBar">
+				<p id = "electionYearLogo">Choose an election year</p>
+				
+				<select name="year" id="dropDownYear" onchange="stateMap()">
+					 <option th:each="year : ${yearList}" 
+					          th:value="${year}" 
+					          th:text="${year}"/>
+				</select>
+				
+				<p id = "stateNameLogo">Selected State:&emsp;&emsp;&nbsp;&nbsp;
+				<input id="stateName" type="text" name="stateName" value="AL" ></p>
+			
+				
+				<input id="detailBtn" type="submit" value="See Democratic Data"><br/>
+			</div>
+			</div>
+		</form>
+			
+	</div>
+</body>
+</html>

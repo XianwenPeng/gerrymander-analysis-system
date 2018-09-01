@@ -1,0 +1,1510 @@
+[ {
+  "year" : 2016,
+  "results" : [ {
+    "stateName" : "AK",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "AL",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "6",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "AR",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "4",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "AZ",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "5",
+      "test1" : "PASS",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "CA",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "7",
+      "test1" : "FAIL",
+      "democraticSeats" : "46"
+    }
+  }, {
+    "stateName" : "CO",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "3",
+      "test1" : "PASS",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "CT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "5"
+    }
+  }, {
+    "stateName" : "DE",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "FL",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "14",
+      "test1" : "PASS",
+      "democraticSeats" : "13"
+    }
+  }, {
+    "stateName" : "GA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "10",
+      "test1" : "PASS",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "HI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "IA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "4",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "ID",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "IL",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "7",
+      "test1" : "FAIL",
+      "democraticSeats" : "11"
+    }
+  }, {
+    "stateName" : "IN",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "7",
+      "test1" : "PASS",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "KS",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "KY",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "5",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "LA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "5",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "MA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "9"
+    }
+  }, {
+    "stateName" : "MD",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "7"
+    }
+  }, {
+    "stateName" : "ME",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "MI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "9",
+      "test1" : "PASS",
+      "democraticSeats" : "5"
+    }
+  }, {
+    "stateName" : "MN",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "5",
+      "test1" : "PASS",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "MO",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "6",
+      "test1" : "PASS",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "MS",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "MT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "NC",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "10",
+      "test1" : "FAIL",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "ND",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "NE",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "NH",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "NJ",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "5",
+      "test1" : "FAIL",
+      "democraticSeats" : "7"
+    }
+  }, {
+    "stateName" : "NM",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "NV",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "2",
+      "test1" : "PASS",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "NY",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "9",
+      "test1" : "FAIL",
+      "democraticSeats" : "18"
+    }
+  }, {
+    "stateName" : "OH",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "12",
+      "test1" : "PASS",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "OK",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "5",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "OR",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "PA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "12",
+      "test1" : "PASS",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "RI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "SC",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "6",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "SD",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "TN",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "7",
+      "test1" : "PASS",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "TX",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "22",
+      "test1" : "PASS",
+      "democraticSeats" : "14"
+    }
+  }, {
+    "stateName" : "UT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "4",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "VA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "7",
+      "test1" : "PASS",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "VT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "WA",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "3",
+      "test1" : "PASS",
+      "democraticSeats" : "7"
+    }
+  }, {
+    "stateName" : "WI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "6",
+      "test1" : "FAIL",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "WV",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "WY",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  } ]
+}, {
+  "year" : 2014,
+  "results" : [ {
+    "stateName" : "AK",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "AL",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "12",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "AR",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "8",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "AZ",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "11",
+      "test1" : "PASS",
+      "democraticSeats" : "7"
+    }
+  }, {
+    "stateName" : "CA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "17",
+      "test1" : "FAIL",
+      "democraticSeats" : "89"
+    }
+  }, {
+    "stateName" : "CO",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "6",
+      "test1" : "PASS",
+      "democraticSeats" : "8"
+    }
+  }, {
+    "stateName" : "CT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "10"
+    }
+  }, {
+    "stateName" : "DE",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "FL",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "26",
+      "test1" : "PASS",
+      "democraticSeats" : "28"
+    }
+  }, {
+    "stateName" : "GA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "20",
+      "test1" : "PASS",
+      "democraticSeats" : "8"
+    }
+  }, {
+    "stateName" : "HI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "IA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "5",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "ID",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "4",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "IL",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "9",
+      "test1" : "PASS",
+      "democraticSeats" : "27"
+    }
+  }, {
+    "stateName" : "IN",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "13",
+      "test1" : "PASS",
+      "democraticSeats" : "5"
+    }
+  }, {
+    "stateName" : "KS",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "7",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "KY",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "10",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "LA",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "10",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "MA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "18"
+    }
+  }, {
+    "stateName" : "MD",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "14"
+    }
+  }, {
+    "stateName" : "ME",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "MI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "11",
+      "test1" : "PASS",
+      "democraticSeats" : "17"
+    }
+  }, {
+    "stateName" : "MN",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "7",
+      "test1" : "PASS",
+      "democraticSeats" : "9"
+    }
+  }, {
+    "stateName" : "MO",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "12",
+      "test1" : "FAIL",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "MS",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "6",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "MT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "NC",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "20",
+      "test1" : "FAIL",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "ND",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "NE",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "5",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "NH",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "NJ",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "9",
+      "test1" : "PASS",
+      "democraticSeats" : "15"
+    }
+  }, {
+    "stateName" : "NM",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "NV",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "NY",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "12",
+      "test1" : "PASS",
+      "democraticSeats" : "42"
+    }
+  }, {
+    "stateName" : "OH",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "24",
+      "test1" : "FAIL",
+      "democraticSeats" : "8"
+    }
+  }, {
+    "stateName" : "OK",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "10",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "OR",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "8"
+    }
+  }, {
+    "stateName" : "PA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "20",
+      "test1" : "PASS",
+      "democraticSeats" : "16"
+    }
+  }, {
+    "stateName" : "RI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "SC",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "12",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "SD",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "TN",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "14",
+      "test1" : "PASS",
+      "democraticSeats" : "4"
+    }
+  }, {
+    "stateName" : "TX",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "46",
+      "test1" : "PASS",
+      "democraticSeats" : "26"
+    }
+  }, {
+    "stateName" : "UT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "8",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "VA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "14",
+      "test1" : "FAIL",
+      "democraticSeats" : "8"
+    }
+  }, {
+    "stateName" : "VT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "2"
+    }
+  }, {
+    "stateName" : "WA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "5",
+      "test1" : "PASS",
+      "democraticSeats" : "15"
+    }
+  }, {
+    "stateName" : "WI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "7",
+      "test1" : "SKIP",
+      "democraticSeats" : "9"
+    }
+  }, {
+    "stateName" : "WV",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "6",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "WY",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "2",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  } ]
+}, {
+  "year" : 2012,
+  "results" : [ {
+    "stateName" : "AK",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "AL",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "18",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "AR",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "12",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "AZ",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "17",
+      "test1" : "PASS",
+      "democraticSeats" : "10"
+    }
+  }, {
+    "stateName" : "CA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "29",
+      "test1" : "FAIL",
+      "democraticSeats" : "130"
+    }
+  }, {
+    "stateName" : "CO",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "9",
+      "test1" : "PASS",
+      "democraticSeats" : "12"
+    }
+  }, {
+    "stateName" : "CT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "15"
+    }
+  }, {
+    "stateName" : "DE",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "FL",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "41",
+      "test1" : "PASS",
+      "democraticSeats" : "40"
+    }
+  }, {
+    "stateName" : "GA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "30",
+      "test1" : "PASS",
+      "democraticSeats" : "12"
+    }
+  }, {
+    "stateName" : "HI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "IA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "6",
+      "test1" : "SKIP",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "ID",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "6",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "IL",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "15",
+      "test1" : "PASS",
+      "democraticSeats" : "39"
+    }
+  }, {
+    "stateName" : "IN",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "20",
+      "test1" : "PASS",
+      "democraticSeats" : "7"
+    }
+  }, {
+    "stateName" : "KS",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "11",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "KY",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "15",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "LA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "15",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "MA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "27"
+    }
+  }, {
+    "stateName" : "MD",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "21"
+    }
+  }, {
+    "stateName" : "ME",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "5"
+    }
+  }, {
+    "stateName" : "MI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "20",
+      "test1" : "FAIL",
+      "democraticSeats" : "22"
+    }
+  }, {
+    "stateName" : "MN",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "9",
+      "test1" : "PASS",
+      "democraticSeats" : "15"
+    }
+  }, {
+    "stateName" : "MO",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "18",
+      "test1" : "PASS",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "MS",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "9",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "MT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "NC",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "30",
+      "test1" : "FAIL",
+      "democraticSeats" : "9"
+    }
+  }, {
+    "stateName" : "ND",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "NE",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "8",
+      "test1" : "SKIP",
+      "democraticSeats" : "1"
+    }
+  }, {
+    "stateName" : "NH",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "1",
+      "test1" : "SKIP",
+      "democraticSeats" : "5"
+    }
+  }, {
+    "stateName" : "NJ",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "13",
+      "test1" : "FAIL",
+      "democraticSeats" : "23"
+    }
+  }, {
+    "stateName" : "NM",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "NV",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "9"
+    }
+  }, {
+    "stateName" : "NY",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "15",
+      "test1" : "PASS",
+      "democraticSeats" : "66"
+    }
+  }, {
+    "stateName" : "OH",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "36",
+      "test1" : "FAIL",
+      "democraticSeats" : "12"
+    }
+  }, {
+    "stateName" : "OK",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "15",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "OR",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "12"
+    }
+  }, {
+    "stateName" : "PA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "33",
+      "test1" : "FAIL",
+      "democraticSeats" : "21"
+    }
+  }, {
+    "stateName" : "RI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "SC",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "18",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "SD",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "TN",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "21",
+      "test1" : "PASS",
+      "democraticSeats" : "6"
+    }
+  }, {
+    "stateName" : "TX",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "FAIL",
+      "republicanSeats" : "71",
+      "test1" : "PASS",
+      "democraticSeats" : "37"
+    }
+  }, {
+    "stateName" : "UT",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "12",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "VA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "21",
+      "test1" : "FAIL",
+      "democraticSeats" : "12"
+    }
+  }, {
+    "stateName" : "VT",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "0",
+      "test1" : "SKIP",
+      "democraticSeats" : "3"
+    }
+  }, {
+    "stateName" : "WA",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "FAIL",
+      "test3" : "PASS",
+      "republicanSeats" : "8",
+      "test1" : "PASS",
+      "democraticSeats" : "22"
+    }
+  }, {
+    "stateName" : "WI",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "PASS",
+      "test3" : "PASS",
+      "republicanSeats" : "12",
+      "test1" : "PASS",
+      "democraticSeats" : "12"
+    }
+  }, {
+    "stateName" : "WV",
+    "result" : {
+      "test4" : "FAIL",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "9",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  }, {
+    "stateName" : "WY",
+    "result" : {
+      "test4" : "PASS",
+      "test2" : "SKIP",
+      "test3" : "SKIP",
+      "republicanSeats" : "3",
+      "test1" : "SKIP",
+      "democraticSeats" : "0"
+    }
+  } ]
+} ]
